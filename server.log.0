@@ -1,0 +1,1565 @@
+2011-02-05 14:31:00 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 14:31:00 [INFO] Loading properties
+2011-02-05 14:31:00 [WARNING] server.properties does not exist
+2011-02-05 14:31:00 [INFO] Generating new properties file
+2011-02-05 14:31:00 [INFO] Starting Minecraft server on *:25565
+2011-02-05 14:31:00 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2011-02-05 14:31:00 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2011-02-05 14:31:00 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2011-02-05 14:31:00 [INFO] Preparing level "world"
+2011-02-05 14:31:00 [INFO] Preparing start region
+2011-02-05 14:31:01 [INFO] Preparing spawn area: 3%
+2011-02-05 14:31:02 [INFO] Preparing spawn area: 8%
+2011-02-05 14:31:03 [INFO] Preparing spawn area: 12%
+2011-02-05 14:31:04 [INFO] Preparing spawn area: 16%
+2011-02-05 14:31:05 [INFO] Preparing spawn area: 20%
+2011-02-05 14:31:06 [INFO] Preparing spawn area: 24%
+2011-02-05 14:31:07 [INFO] Preparing spawn area: 32%
+2011-02-05 14:31:08 [INFO] Preparing spawn area: 40%
+2011-02-05 14:31:09 [INFO] Preparing spawn area: 44%
+2011-02-05 14:31:10 [INFO] Preparing spawn area: 52%
+2011-02-05 14:31:11 [INFO] Preparing spawn area: 61%
+2011-02-05 14:31:12 [INFO] Preparing spawn area: 69%
+2011-02-05 14:31:13 [INFO] Preparing spawn area: 73%
+2011-02-05 14:31:14 [INFO] Preparing spawn area: 77%
+2011-02-05 14:31:15 [INFO] Preparing spawn area: 85%
+2011-02-05 14:31:16 [INFO] Preparing spawn area: 93%
+2011-02-05 14:31:17 [INFO] Done! For help, type "help" or "?"
+2011-02-05 14:32:25 [INFO] /127.0.1.1:48227 lost connection
+2011-02-05 14:33:33 [INFO] jollysnowman [/127.0.1.1:48236] logged in with entity id 4321
+2011-02-05 14:33:37 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-05 14:34:14 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 14:34:14 [INFO] Loading properties
+2011-02-05 14:34:14 [INFO] Starting Minecraft server on *:25565
+2011-02-05 14:34:14 [INFO] Preparing level "world"
+2011-02-05 14:34:14 [INFO] Preparing start region
+2011-02-05 14:34:15 [INFO] Preparing spawn area: 12%
+2011-02-05 14:34:16 [INFO] Preparing spawn area: 32%
+2011-02-05 14:34:17 [INFO] Preparing spawn area: 77%
+2011-02-05 14:34:18 [INFO] Done! For help, type "help" or "?"
+2011-02-05 14:35:11 [INFO] /192.168.1.2:49535 lost connection
+2011-02-05 14:35:37 [INFO] /192.168.1.3:55417 lost connection
+2011-02-05 14:44:23 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 14:44:23 [INFO] Loading properties
+2011-02-05 14:44:23 [INFO] Starting Minecraft server on *:25565
+2011-02-05 14:44:23 [INFO] Preparing level "world"
+2011-02-05 14:44:23 [INFO] Preparing start region
+2011-02-05 14:44:24 [INFO] Preparing spawn area: 3%
+2011-02-05 14:44:25 [INFO] Preparing spawn area: 16%
+2011-02-05 14:44:26 [INFO] Preparing spawn area: 40%
+2011-02-05 14:44:27 [INFO] Preparing spawn area: 81%
+2011-02-05 14:44:28 [INFO] Done! For help, type "help" or "?"
+2011-02-05 14:47:06 [INFO] Disconnecting jollysnowman [/127.0.1.1:48482]: Took too long to log in
+2011-02-05 14:52:52 [INFO] jollysnowman [/127.0.1.1:47644] logged in with entity id 149
+2011-02-05 14:52:54 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 14:54:16 [INFO] deleryth [/192.168.1.2:49591] logged in with entity id 263
+2011-02-05 14:55:37 [INFO] To run the server without a gui, start it like this:
+2011-02-05 14:55:37 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-02-05 14:55:37 [INFO] Console commands:
+2011-02-05 14:55:37 [INFO]    help  or  ?               shows this message
+2011-02-05 14:55:37 [INFO]    kick <player>             removes a player from the server
+2011-02-05 14:55:37 [INFO]    ban <player>              bans a player from the server
+2011-02-05 14:55:37 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-02-05 14:55:37 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-02-05 14:55:37 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-02-05 14:55:37 [INFO]    op <player>               turns a player into an op
+2011-02-05 14:55:37 [INFO]    deop <player>             removes op status from a player
+2011-02-05 14:55:37 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-02-05 14:55:37 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-02-05 14:55:37 [INFO]    tell <player> <message>   sends a private message to a player
+2011-02-05 14:55:37 [INFO]    stop                      gracefully stops the server
+2011-02-05 14:55:37 [INFO]    save-all                  forces a server-wide level save
+2011-02-05 14:55:37 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-02-05 14:55:37 [INFO]    save-on                   re-enables terrain saving
+2011-02-05 14:55:37 [INFO]    list                      lists all currently connected players
+2011-02-05 14:55:37 [INFO]    say <message>             broadcasts a message to all players
+2011-02-05 14:56:11 [INFO] [CONSOLE->deleryth] "i might have to install another driver for my gfx card. you might be kicked in a few"
+2011-02-05 14:56:11 [INFO] §7CONSOLE whispers "i might have to install another driver for my gfx card. you might be kicked in a few"
+2011-02-05 14:56:18 [INFO] <deleryth> ok
+2011-02-05 14:56:29 [INFO] [CONSOLE->deleryth] "fag"
+2011-02-05 14:56:29 [INFO] §7CONSOLE whispers "fag"
+2011-02-05 14:56:37 [INFO] <deleryth> fuck you
+2011-02-05 14:56:52 [INFO] [CONSOLE->deleryth] "bitch i'll kick you off"
+2011-02-05 14:56:52 [INFO] §7CONSOLE whispers "bitch i'll kick you off"
+2011-02-05 14:57:09 [INFO] <deleryth> i am getting the error where you cant dig anything
+2011-02-05 14:57:36 [INFO] [CONSOLE->deleryth] "is that a server problem"
+2011-02-05 14:57:36 [INFO] §7CONSOLE whispers "is that a server problem"
+2011-02-05 14:57:44 [INFO] <deleryth> dont know
+2011-02-05 14:58:36 [INFO] [CONSOLE->deleryth] "no errors on my side"
+2011-02-05 14:58:36 [INFO] §7CONSOLE whispers "no errors on my side"
+2011-02-05 14:59:47 [INFO] <deleryth> it is working now
+2011-02-05 14:59:58 [INFO] [CONSOLE->deleryth] "k"
+2011-02-05 14:59:58 [INFO] §7CONSOLE whispers "k"
+2011-02-05 15:00:24 [INFO] [CONSOLE->deleryth] "gotta restart lemme know when"
+2011-02-05 15:00:24 [INFO] §7CONSOLE whispers "gotta restart lemme know when"
+2011-02-05 15:00:30 [INFO] <deleryth> whenever
+2011-02-05 15:11:16 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 15:11:16 [INFO] Loading properties
+2011-02-05 15:11:16 [INFO] Starting Minecraft server on *:25565
+2011-02-05 15:11:16 [INFO] Preparing level "world"
+2011-02-05 15:11:16 [INFO] Preparing start region
+2011-02-05 15:11:17 [INFO] Preparing spawn area: 8%
+2011-02-05 15:11:18 [INFO] Preparing spawn area: 20%
+2011-02-05 15:11:19 [INFO] Preparing spawn area: 44%
+2011-02-05 15:11:20 [INFO] Preparing spawn area: 73%
+2011-02-05 15:11:21 [INFO] Done! For help, type "help" or "?"
+2011-02-05 15:11:48 [INFO] jollysnowman [/127.0.1.1:54396] logged in with entity id 185
+2011-02-05 15:12:21 [INFO] bccbrendan [/192.168.1.4:55671] logged in with entity id 1109
+2011-02-05 15:12:27 [INFO] deleryth [/192.168.1.2:49730] logged in with entity id 1359
+2011-02-05 15:14:25 [INFO] <bccbrendan> hi
+2011-02-05 15:14:52 [INFO] <deleryth> im making a hut dont brek the edges
+2011-02-05 15:15:14 [INFO] <bccbrendan> lets make it big enough for 3
+2011-02-05 15:16:10 [INFO] <bccbrendan> esteban, break wood into planks first
+2011-02-05 15:16:14 [INFO] <jollysnowman> k
+2011-02-05 15:16:15 [INFO] <bccbrendan> you get four blocks for 1
+2011-02-05 15:16:32 [INFO] <bccbrendan> ima find coal
+2011-02-05 15:17:53 [INFO] <jollysnowman> how do i make planks?
+2011-02-05 15:18:02 [INFO] <bccbrendan> put 1 wood in ur craft box
+2011-02-05 15:19:31 [INFO] <jollysnowman> what
+2011-02-05 15:20:46 [INFO] <jollysnowman> now what
+2011-02-05 15:22:01 [INFO] <jollysnowman> here's wood
+2011-02-05 15:22:17 [INFO] <jollysnowman> make coal
+2011-02-05 15:22:22 [INFO] <jollysnowman> iono how lol
+2011-02-05 15:24:10 [INFO] <jollysnowman> hey how'd you make the shovel/pick thing
+2011-02-05 15:24:24 [INFO] <jollysnowman> what
+2011-02-05 15:24:31 [INFO] <bccbrendan> minewiki.com
+2011-02-05 15:25:35 [INFO] <jollysnowman> doesn't exist bro
+2011-02-05 15:25:49 [INFO] <bccbrendan> crafting bench:
+2011-02-05 15:25:53 [INFO] <deleryth> google wiki minecraft
+2011-02-05 15:25:59 [INFO] <bccbrendan> top row: stone stone stone
+2011-02-05 15:26:15 [INFO] <bccbrendan> then two sticks in the middle of the bottom two rows
+2011-02-05 15:26:19 [INFO] <bccbrendan> for a pick
+2011-02-05 15:26:33 [INFO] <bccbrendan> a shovel just has one stone on the top and a handle in themiddle
+2011-02-05 15:28:17 [INFO] <jollysnowman> we should've made the house by the spawn lol
+2011-02-05 15:29:52 [INFO] <jollysnowman> are you both lagging?
+2011-02-05 15:29:59 [INFO] <deleryth> dont think so
+2011-02-05 15:30:03 [INFO] <bccbrendan> yeah
+2011-02-05 15:30:04 [INFO] <deleryth> but maybe
+2011-02-05 15:30:12 [INFO] <jollysnowman> brendan are you on your laptop
+2011-02-05 15:30:51 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 15:31:10 [INFO] <bccbrendan> no
+2011-02-05 15:31:28 [INFO] To run the server without a gui, start it like this:
+2011-02-05 15:31:28 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-02-05 15:31:28 [INFO] Console commands:
+2011-02-05 15:31:28 [INFO]    help  or  ?               shows this message
+2011-02-05 15:31:28 [INFO]    kick <player>             removes a player from the server
+2011-02-05 15:31:28 [INFO]    ban <player>              bans a player from the server
+2011-02-05 15:31:28 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-02-05 15:31:28 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-02-05 15:31:28 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-02-05 15:31:28 [INFO]    op <player>               turns a player into an op
+2011-02-05 15:31:28 [INFO]    deop <player>             removes op status from a player
+2011-02-05 15:31:28 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-02-05 15:31:28 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-02-05 15:31:28 [INFO]    tell <player> <message>   sends a private message to a player
+2011-02-05 15:31:28 [INFO]    stop                      gracefully stops the server
+2011-02-05 15:31:28 [INFO]    save-all                  forces a server-wide level save
+2011-02-05 15:31:28 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-02-05 15:31:28 [INFO]    save-on                   re-enables terrain saving
+2011-02-05 15:31:28 [INFO]    list                      lists all currently connected players
+2011-02-05 15:31:28 [INFO]    say <message>             broadcasts a message to all players
+2011-02-05 15:31:51 [INFO] [CONSOLE] weird i got dc'ed
+2011-02-05 15:32:10 [INFO] jollysnowman [/127.0.1.1:54242] logged in with entity id 220148
+2011-02-05 15:32:22 [INFO] [CONSOLE] "also, you can connect to "hesay "also, you can connect to headbutt instaed of 192.168.1.3"
+2011-02-05 15:34:55 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 15:35:37 [INFO] jollysnowman [/192.168.1.3:58470] logged in with entity id 223363
+2011-02-05 15:36:00 [INFO] <bccbrendan> have an axe :)
+2011-02-05 15:36:16 [INFO] <jollysnowman> aww gracias
+2011-02-05 15:36:24 [INFO] <jollysnowman> i'm gonna kill you with it
+2011-02-05 15:41:52 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-05 15:42:09 [INFO] [CONSOLE] no i'm just trying to see if i can connect externally
+2011-02-05 15:44:52 [INFO] [CONSOLE] ok so we can't connect externally b/c the router isn't running minecraft
+2011-02-05 15:45:59 [INFO] jollysnowman [/127.0.1.1:39533] logged in with entity id 243749
+2011-02-05 15:46:06 [INFO] <bccbrendan> hi
+2011-02-05 15:46:10 [INFO] <jollysnowman> what're we doing
+2011-02-05 15:46:17 [INFO] <bccbrendan> STAYING INSIDE
+2011-02-05 15:48:17 [INFO] <bccbrendan> is it daytime yet?
+2011-02-05 15:48:23 [INFO] <deleryth> no
+2011-02-05 15:48:25 [INFO] <jollysnowman> iono
+2011-02-05 15:48:35 [INFO] <bccbrendan> NOOO ESTEBAN THOSE ARE OUR STAIRS!
+2011-02-05 15:48:40 [INFO] <jollysnowman> lol i see that now
+2011-02-05 15:49:00 [INFO] <bccbrendan> lol wool stairs?
+2011-02-05 15:49:07 [INFO] <jollysnowman> it's plush
+2011-02-05 15:49:45 [INFO] <bccbrendan> btw a good policy is to only put torches on the right
+2011-02-05 15:49:56 [INFO] <jollysnowman> yeah i rmr
+2011-02-05 15:50:03 [INFO] <jollysnowman> check it out i gotta hoe
+2011-02-05 15:50:03 [INFO] <bccbrendan> so if you're lost, just keeep them to ur left and youll find your way up
+2011-02-05 15:51:34 [INFO] <jollysnowman> are you making wheat, too
+2011-02-05 15:51:37 [INFO] <jollysnowman> that's what i heard
+2011-02-05 15:51:59 [INFO] <bccbrendan> are you doing it?
+2011-02-05 15:52:04 [INFO] <jollysnowman> i'm trying get hoe the grass but no seeds are coming up
+2011-02-05 15:52:04 [INFO] <bccbrendan> lets work together
+2011-02-05 15:52:12 [INFO] <bccbrendan> use right click
+2011-02-05 15:52:29 [INFO] <jollysnowman> oh i see it now
+2011-02-05 15:52:58 [INFO] <jollysnowman> where should we pu tit
+2011-02-05 15:53:05 [INFO] <bccbrendan> by me
+2011-02-05 15:54:38 [INFO] <jollysnowman> how do you plant
+2011-02-05 15:54:47 [INFO] <bccbrendan> use the hoe on the dirt first
+2011-02-05 15:54:54 [INFO] <deleryth> grass^
+2011-02-05 15:55:26 [INFO] <bccbrendan> done step on the dirt after or itll revert
+2011-02-05 15:55:47 [INFO] <jollysnowman> how's that
+2011-02-05 15:56:05 [INFO] <jollysnowman> is the water high enough?
+2011-02-05 15:56:15 [INFO] <bccbrendan> hoeing dirt makes farmland, make farmland wet, then plant seeds
+2011-02-05 15:56:24 [INFO] <bccbrendan> if u step on farmland, it turns to dirt
+2011-02-05 15:56:29 [INFO] <bccbrendan> and you have to start over
+2011-02-05 15:58:34 [INFO] <jollysnowman> brendan are you still lagging
+2011-02-05 15:58:49 [INFO] <bccbrendan> a little but its not too bad
+2011-02-05 15:59:03 [INFO] <jollysnowman> after this we can try it on the CS box and see if there's a difference
+2011-02-05 16:01:01 [INFO] <jollysnowman> what other crops can we make
+2011-02-05 16:01:13 [INFO] <deleryth> sugar cane and cactus
+2011-02-05 16:01:17 [INFO] <bccbrendan> sugar cane and cactus
+2011-02-05 16:01:22 [INFO] <jollysnowman> do we have to find those?
+2011-02-05 16:02:21 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 16:02:36 [INFO] jollysnowman [/127.0.1.1:58935] logged in with entity id 282357
+2011-02-05 16:06:04 [INFO] <bccbrendan> you guys have any string?
+2011-02-05 16:06:06 [INFO] <jollysnowman> nope
+2011-02-05 16:06:13 [INFO] <deleryth> negative
+2011-02-05 16:09:39 [INFO] <bccbrendan> wtf happened here?
+2011-02-05 16:09:42 [INFO] <jollysnowman> ?
+2011-02-05 16:09:50 [INFO] <bccbrendan> lol our house is a farm
+2011-02-05 16:09:57 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 16:10:10 [INFO] jollysnowman [/127.0.1.1:57823] logged in with entity id 350995
+2011-02-05 16:12:55 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-05 16:13:05 [INFO] Unknown console command. Type "help" for help.
+2011-02-05 16:13:13 [INFO] [CONSOLE] "this is weird my client keeps crashing"
+2011-02-05 16:13:26 [INFO] [CONSOLE] "probably lol"
+2011-02-05 16:13:30 [INFO] jollysnowman [/127.0.1.1:43175] logged in with entity id 354882
+2011-02-05 16:14:50 [INFO] <bccbrendan> SUP
+2011-02-05 16:15:05 [INFO] <jollysnowman> how do we harvest the wheat?!
+2011-02-05 16:15:21 [INFO] <bccbrendan> none of its ready yet
+2011-02-05 16:15:32 [INFO] <bccbrendan> you'll just hit it when its taller and browner
+2011-02-05 16:15:37 [INFO] <jollysnowman> ah ok
+2011-02-05 16:16:00 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 16:16:12 [INFO] jollysnowman [/127.0.1.1:38410] logged in with entity id 357830
+2011-02-05 16:16:37 [INFO] <jollysnowman> so do you have to find  cactus and sugarcane?
+2011-02-05 16:16:43 [INFO] <bccbrendan> yeah
+2011-02-05 16:16:43 [INFO] <deleryth> yes
+2011-02-05 16:16:49 [INFO] <jollysnowman> lame
+2011-02-05 16:16:51 [INFO] <bccbrendan> i saw some sugar cane around here
+2011-02-05 16:17:54 [INFO] <jollysnowman> found teh sugarcane
+2011-02-05 16:18:11 [INFO] <jollysnowman> how do we harvest it
+2011-02-05 16:18:21 [INFO] <jollysnowman> also there's a monster outside the door brendan lol
+2011-02-05 16:18:51 [INFO] <jollysnowman> fuck
+2011-02-05 16:19:26 [INFO] <bccbrendan> ugh
+2011-02-05 16:20:22 [INFO] <bccbrendan> aw man thesse damn mobs are ruing the crops
+2011-02-05 16:21:23 [INFO] <jollysnowman> how do we make a sugarcane crop
+2011-02-05 16:21:35 [INFO] <bccbrendan> just plant it on dirt next to water
+2011-02-05 16:21:39 [INFO] <jollysnowman> same as whaeat?
+2011-02-05 16:21:51 [INFO] <bccbrendan> dont need to hoe at all
+2011-02-05 16:22:01 [INFO] <jollysnowman> k
+2011-02-05 16:24:21 [INFO] <bccbrendan> gonna kill some animals
+2011-02-05 16:26:07 [INFO] <jollysnowman> LAVA WTF
+2011-02-05 16:26:18 [INFO] <bccbrendan> lol
+2011-02-05 16:29:22 [INFO] <bccbrendan> awww yeah check me out
+2011-02-05 16:29:29 [INFO] <jollysnowman> wtfff
+2011-02-05 16:30:33 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 16:30:48 [INFO] jollysnowman [/127.0.1.1:49127] logged in with entity id 434558
+2011-02-05 16:33:07 [INFO] <jollysnowman> help me make a sugarcane garden
+2011-02-05 16:33:16 [INFO] <bccbrendan> k
+2011-02-05 16:33:26 [INFO] <bccbrendan> how much cane you got?
+2011-02-05 16:33:29 [INFO] <jollysnowman> 3
+2011-02-05 16:36:15 [INFO] <bccbrendan> ok so just put the cane on the dirt
+2011-02-05 16:36:49 [INFO] <bccbrendan> alright guys i gtg. hw
+2011-02-05 16:36:57 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-05 16:36:58 [INFO] <jollysnowman> aite
+2011-02-05 16:38:26 [INFO] <jollysnowman> tom what're you doing
+2011-02-05 16:38:53 [INFO] <deleryth> gardening
+2011-02-05 16:46:12 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 16:46:28 [INFO] jollysnowman [/127.0.1.1:53813] logged in with entity id 482236
+2011-02-05 16:50:26 [INFO] <deleryth> spider right outside
+2011-02-05 16:55:24 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-05 16:55:36 [INFO] jollysnowman [/127.0.1.1:45520] logged in with entity id 489502
+2011-02-05 16:57:46 [INFO] <deleryth> did you plant trees upstairs?
+2011-02-05 16:57:57 [INFO] <jollysnowman> one of my classic pranks!
+2011-02-05 16:58:22 [INFO] <jollysnowman> fyi i was gonna plant one
+2011-02-05 16:58:24 [INFO] <jollysnowman> brendan said 10
+2011-02-05 17:01:13 [INFO] <jollysnowman> i think i'm done for now are you gonna stay
+2011-02-05 17:01:21 [INFO] <deleryth> about done
+2011-02-05 17:01:28 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-05 17:03:38 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-05 17:20:05 [INFO] To run the server without a gui, start it like this:
+2011-02-05 17:20:05 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-02-05 17:20:05 [INFO] Console commands:
+2011-02-05 17:20:05 [INFO]    help  or  ?               shows this message
+2011-02-05 17:20:05 [INFO]    kick <player>             removes a player from the server
+2011-02-05 17:20:05 [INFO]    ban <player>              bans a player from the server
+2011-02-05 17:20:05 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-02-05 17:20:05 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-02-05 17:20:05 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-02-05 17:20:05 [INFO]    op <player>               turns a player into an op
+2011-02-05 17:20:05 [INFO]    deop <player>             removes op status from a player
+2011-02-05 17:20:05 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-02-05 17:20:05 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-02-05 17:20:05 [INFO]    tell <player> <message>   sends a private message to a player
+2011-02-05 17:20:05 [INFO]    stop                      gracefully stops the server
+2011-02-05 17:20:05 [INFO]    save-all                  forces a server-wide level save
+2011-02-05 17:20:05 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-02-05 17:20:05 [INFO]    save-on                   re-enables terrain saving
+2011-02-05 17:20:05 [INFO]    list                      lists all currently connected players
+2011-02-05 17:20:05 [INFO]    say <message>             broadcasts a message to all players
+2011-02-05 17:20:10 [INFO] CONSOLE: Stopping the server..
+2011-02-05 17:20:10 [INFO] Stopping server
+2011-02-05 17:20:10 [INFO] Saving chunks
+2011-02-05 20:18:14 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 20:18:14 [INFO] Loading properties
+2011-02-05 20:18:14 [INFO] Starting Minecraft server on *:25565
+2011-02-05 20:18:14 [INFO] Preparing level "world"
+2011-02-05 20:18:14 [INFO] Preparing start region
+2011-02-05 20:18:15 [INFO] Preparing spawn area: 8%
+2011-02-05 20:18:16 [INFO] Preparing spawn area: 24%
+2011-02-05 20:18:17 [INFO] Preparing spawn area: 61%
+2011-02-05 20:18:18 [INFO] Preparing spawn area: 97%
+2011-02-05 20:18:18 [INFO] Done! For help, type "help" or "?"
+2011-02-05 20:18:32 [INFO] /127.0.1.1:51223 lost connection
+2011-02-05 20:20:09 [INFO] CONSOLE: Stopping the server..
+2011-02-05 20:20:09 [INFO] Stopping server
+2011-02-05 20:20:09 [INFO] Saving chunks
+2011-02-05 20:23:58 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 20:23:58 [INFO] Loading properties
+2011-02-05 20:23:58 [INFO] Starting Minecraft server on *:25565
+2011-02-05 20:23:58 [INFO] Preparing level "world"
+2011-02-05 20:23:58 [INFO] Preparing start region
+2011-02-05 20:23:59 [INFO] Preparing spawn area: 8%
+2011-02-05 20:24:00 [INFO] Preparing spawn area: 24%
+2011-02-05 20:24:01 [INFO] Preparing spawn area: 61%
+2011-02-05 20:24:02 [INFO] Preparing spawn area: 97%
+2011-02-05 20:24:02 [INFO] Done! For help, type "help" or "?"
+2011-02-05 20:24:05 [INFO] /127.0.1.1:58286 lost connection
+2011-02-05 20:28:15 [INFO] /127.0.1.1:50125 lost connection
+2011-02-05 20:29:31 [INFO] Unknown console command. Type "help" for help.
+2011-02-05 20:29:35 [INFO] CONSOLE: Stopping the server..
+2011-02-05 20:29:35 [INFO] Stopping server
+2011-02-05 20:29:35 [INFO] Saving chunks
+2011-02-05 20:33:19 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 20:33:19 [INFO] Loading properties
+2011-02-05 20:33:19 [INFO] Starting Minecraft server on *:25565
+2011-02-05 20:33:19 [INFO] Preparing level "world"
+2011-02-05 20:33:19 [INFO] Preparing start region
+2011-02-05 20:33:20 [INFO] Preparing spawn area: 8%
+2011-02-05 20:33:21 [INFO] Preparing spawn area: 24%
+2011-02-05 20:33:22 [INFO] Preparing spawn area: 52%
+2011-02-05 20:33:23 [INFO] Preparing spawn area: 77%
+2011-02-05 20:33:24 [INFO] Preparing spawn area: 97%
+2011-02-05 20:33:24 [INFO] Done! For help, type "help" or "?"
+2011-02-05 20:34:20 [INFO] Disconnecting /127.0.1.1:35306: Took too long to log in
+2011-02-05 20:35:29 [INFO] CONSOLE: Stopping the server..
+2011-02-05 20:35:29 [INFO] Stopping server
+2011-02-05 20:35:29 [INFO] Saving chunks
+2011-02-05 20:39:23 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 20:39:23 [INFO] Loading properties
+2011-02-05 20:39:23 [INFO] Starting Minecraft server on *:25565
+2011-02-05 20:39:23 [INFO] Preparing level "world"
+2011-02-05 20:39:23 [INFO] Preparing start region
+2011-02-05 20:39:24 [INFO] Preparing spawn area: 8%
+2011-02-05 20:39:25 [INFO] Preparing spawn area: 28%
+2011-02-05 20:39:26 [INFO] Preparing spawn area: 69%
+2011-02-05 20:39:27 [INFO] Done! For help, type "help" or "?"
+2011-02-05 20:46:12 [INFO] /127.0.1.1:56814 lost connection
+2011-02-05 20:46:36 [INFO] CONSOLE: Stopping the server..
+2011-02-05 20:46:36 [INFO] Stopping server
+2011-02-05 20:46:36 [INFO] Saving chunks
+2011-02-05 21:35:16 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-05 21:35:16 [INFO] Loading properties
+2011-02-05 21:35:16 [INFO] Starting Minecraft server on *:25565
+2011-02-05 21:35:17 [INFO] Preparing level "world"
+2011-02-05 21:35:17 [INFO] Preparing start region
+2011-02-05 21:35:18 [INFO] Preparing spawn area: 8%
+2011-02-05 21:35:19 [INFO] Preparing spawn area: 28%
+2011-02-05 21:35:20 [INFO] Preparing spawn area: 61%
+2011-02-05 21:35:21 [INFO] Preparing spawn area: 97%
+2011-02-05 21:35:21 [INFO] Done! For help, type "help" or "?"
+2011-02-05 21:35:33 [INFO] /192.168.1.2:50790 lost connection
+2011-02-05 21:35:41 [INFO] /192.168.1.2:50792 lost connection
+2011-02-05 21:36:42 [INFO] Disconnecting deleryth [/192.168.1.2:50796]: Took too long to log in
+2011-02-05 21:37:28 [INFO] Disconnecting /192.168.1.2:50799: Took too long to log in
+2011-02-05 21:37:36 [INFO] Disconnecting bccbrendan [/192.168.1.4:62953]: Took too long to log in
+2011-02-05 21:37:41 [INFO] /192.168.1.4:62957 lost connection
+2011-02-05 21:38:30 [INFO] chimz [/192.168.1.11:50179] logged in with entity id 99
+2011-02-05 21:38:53 [INFO] Disconnecting deleryth [/192.168.1.2:50801]: Took too long to log in
+2011-02-05 21:40:25 [INFO] /192.168.1.2:50804 lost connection
+2011-02-05 21:40:32 [INFO] /192.168.1.2:50806 lost connection
+2011-02-05 21:41:16 [INFO] /192.168.1.2:50812 lost connection
+2011-02-05 21:41:47 [INFO] /192.168.1.2:50814 lost connection
+2011-02-05 21:41:54 [INFO] /192.168.1.2:50816 lost connection
+2011-02-05 21:42:08 [INFO] /192.168.1.2:50818 lost connection
+2011-02-05 21:43:15 [INFO] deleryth [/192.168.1.2:50820] lost connection
+2011-02-05 21:43:47 [INFO] Disconnecting deleryth [/192.168.1.2:50823]: Took too long to log in
+2011-02-05 21:44:28 [INFO] /192.168.1.2:50826 lost connection
+2011-02-05 21:45:44 [INFO] Disconnecting deleryth [/192.168.1.2:50829]: Took too long to log in
+2011-02-05 21:45:44 [INFO] /192.168.1.9:54367 lost connection
+2011-02-05 21:46:14 [INFO] /192.168.1.9:54369 lost connection
+2011-02-05 21:46:16 [INFO] /192.168.1.5:49430 lost connection
+2011-02-05 21:46:22 [INFO] /192.168.1.9:54372 lost connection
+2011-02-05 21:46:23 [INFO] /192.168.1.5:49432 lost connection
+2011-02-05 21:46:58 [INFO] /192.168.1.2:50832 lost connection
+2011-02-05 21:47:04 [INFO] /192.168.1.9:54380 lost connection
+2011-02-05 21:47:43 [INFO] Disconnecting /192.168.1.2:50833: Took too long to log in
+2011-02-05 21:47:46 [INFO] Disconnecting /192.168.1.9:54381: Took too long to log in
+2011-02-05 21:48:08 [INFO] /192.168.1.9:54385 lost connection
+2011-02-05 21:48:41 [INFO] deleryth [/192.168.1.2:50836] logged in with entity id 14798
+2011-02-05 21:48:44 [INFO] Disconnecting /192.168.1.9:54387: Took too long to log in
+2011-02-05 21:49:11 [INFO] /192.168.1.5:49450 lost connection
+2011-02-05 21:49:54 [INFO] jollysnowman [/192.168.1.9:54390] logged in with entity id 15523
+2011-02-05 21:50:15 [INFO] Disconnecting /192.168.1.5:49467: Took too long to log in
+2011-02-05 21:50:20 [INFO] /192.168.1.5:49470 lost connection
+2011-02-05 21:50:42 [INFO] /192.168.1.5:49472 lost connection
+2011-02-05 21:50:48 [INFO] /192.168.1.5:49474 lost connection
+2011-02-05 21:52:02 [INFO] /192.168.1.5:49477 lost connection
+2011-02-05 21:53:25 [INFO] bccbrendan [/192.168.1.5:49485] logged in with entity id 18484
+2011-02-05 21:56:43 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-05 21:59:43 [INFO] Disconnecting jollysnowman [/127.0.1.1:46248]: Took too long to log in
+2011-02-05 21:59:57 [INFO] /127.0.1.1:33022 lost connection
+2011-02-05 22:00:39 [INFO] [CONSOLE] "dammit now i can't log in. fuck you guys"
+2011-02-05 22:04:15 [INFO] /127.0.1.1:33060 lost connection
+2011-02-05 22:04:24 [INFO] /192.168.1.3:54500 lost connection
+2011-02-05 22:04:36 [INFO] /127.0.0.1:38138 lost connection
+2011-02-05 22:04:45 [INFO] /127.0.1.1:36284 lost connection
+2011-02-05 22:04:50 [INFO] /127.0.1.1:36286 lost connection
+2011-02-05 22:05:01 [INFO] /192.168.1.3:40461 lost connection
+2011-02-05 22:05:17 [INFO] /192.168.1.3:40479 lost connection
+2011-02-05 22:06:37 [INFO] Disconnecting /192.168.1.3:40483: Took too long to log in
+2011-02-05 22:07:14 [INFO] Disconnecting jollysnowman [/192.168.1.3:40486]: Took too long to log in
+2011-02-05 22:07:56 [INFO] Disconnecting /192.168.1.3:40498: Took too long to log in
+2011-02-05 22:08:03 [INFO] /192.168.1.3:40504 lost connection
+2011-02-05 22:09:05 [INFO] Disconnecting jollysnowman [/192.168.1.3:40529]: Took too long to log in
+2011-02-05 22:09:11 [INFO] /192.168.1.3:40533 lost connection
+2011-02-05 22:09:45 [INFO] /192.168.1.3:33919 lost connection
+2011-02-05 22:09:51 [INFO] /192.168.1.3:33921 lost connection
+2011-02-05 22:10:46 [INFO] Disconnecting /127.0.1.1:53211: Took too long to log in
+2011-02-05 22:11:23 [INFO] /127.0.1.1:53213 lost connection
+2011-02-05 22:11:29 [INFO] /192.168.1.3:33932 lost connection
+2011-02-05 22:11:45 [INFO] /192.168.1.3:33940 lost connection
+2011-02-05 22:12:54 [INFO] Disconnecting jollysnowman [/127.0.1.1:53235]: Took too long to log in
+2011-02-05 22:13:09 [INFO] /127.0.1.1:53249 lost connection
+2011-02-05 22:13:52 [INFO] Disconnecting jollysnowman [/192.168.1.3:33972]: Took too long to log in
+2011-02-05 22:14:18 [INFO] Disconnecting jollysnowman [/192.168.1.3:33972]: Failed to verify username!
+2011-02-05 22:14:28 [INFO] Disconnecting jollysnowman [/192.168.1.3:33976]: Took too long to log in
+2011-02-05 22:15:07 [INFO] Disconnecting jollysnowman [/192.168.1.3:34003]: Took too long to log in
+2011-02-05 22:15:22 [INFO] /192.168.1.3:34224 lost connection
+2011-02-05 22:15:37 [INFO] /192.168.1.3:34232 lost connection
+2011-02-05 22:15:45 [INFO] /127.0.1.1:41431 lost connection
+2011-02-05 22:16:00 [INFO] jollysnowman [/127.0.1.1:41444] logged in with entity id 104321
+2011-02-05 22:16:10 [INFO] <jollysnowman> sup bitches
+2011-02-05 22:19:00 [INFO] <deleryth> gogo make me a door esteban
+2011-02-05 22:19:05 [INFO] <jollysnowman> donde
+2011-02-05 22:20:46 [INFO] <deleryth> david get back inside
+2011-02-05 22:21:05 [INFO] <jollysnowman> i fucked up that door lol
+2011-02-05 22:24:25 [INFO] <jollysnowman> i put in some iron ore in the comm chest
+2011-02-05 22:25:20 [INFO] <deleryth> i moved all the cobblestone and sand into one chest, put everything elsen in the other
+2011-02-05 22:26:03 [INFO] <jollysnowman> lol server says brendan died
+2011-02-05 22:27:05 [INFO] jollysnowman lost connection: disconnect.timeout
+2011-02-05 22:43:06 [INFO] jollysnowman [/192.168.1.12:54494] logged in with entity id 275070
+2011-02-05 22:50:06 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-05 23:06:16 [INFO] <jollysnowman> coal in the comm chest
+2011-02-05 23:20:14 [INFO] /192.168.1.5:50059 lost connection
+2011-02-05 23:20:56 [INFO] bccbrendan [/192.168.1.5:50083] lost connection
+2011-02-05 23:21:01 [INFO] bccbrendan [/192.168.1.5:50096] lost connection
+2011-02-05 23:21:28 [INFO] bccbrendan [/192.168.1.5:50101] lost connection
+2011-02-05 23:21:29 [INFO] Disconnecting bccbrendan [/192.168.1.5:50083]: Failed to verify username!
+2011-02-05 23:21:29 [INFO] /192.168.1.5:50117 lost connection
+2011-02-05 23:22:00 [INFO] /192.168.1.5:50132 lost connection
+2011-02-05 23:22:23 [INFO] /192.168.1.5:50149 lost connection
+2011-02-05 23:22:31 [INFO] /192.168.1.5:50162 lost connection
+2011-02-05 23:24:12 [INFO] Disconnecting bccbrendan [/192.168.1.5:50211]: Took too long to log in
+2011-02-05 23:24:23 [INFO] /192.168.1.5:50239 lost connection
+2011-02-05 23:27:36 [INFO] bccbrendan [/192.168.1.5:50356] logged in with entity id 408890
+2011-02-06 00:08:48 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 02:22:23 [INFO] deleryth [/192.168.1.2:52180] logged in with entity id 693897
+2011-02-06 02:27:07 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-06 02:32:45 [INFO] chimz lost connection: disconnect.quitting
+2011-02-06 02:34:46 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-06 07:52:32 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 07:52:32 [INFO] Loading properties
+2011-02-06 07:52:32 [INFO] Starting Minecraft server on *:25565
+2011-02-06 07:52:32 [INFO] Preparing level "world"
+2011-02-06 07:52:32 [INFO] Preparing start region
+2011-02-06 07:52:34 [INFO] Preparing spawn area: 12%
+2011-02-06 07:52:35 [INFO] Preparing spawn area: 24%
+2011-02-06 07:52:36 [INFO] Preparing spawn area: 40%
+2011-02-06 07:52:37 [INFO] Preparing spawn area: 48%
+2011-02-06 07:52:38 [INFO] Preparing spawn area: 61%
+2011-02-06 07:52:44 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 07:52:44 [INFO] Loading properties
+2011-02-06 07:52:44 [INFO] Starting Minecraft server on *:25565
+2011-02-06 07:52:44 [INFO] Preparing level "world"
+2011-02-06 07:52:44 [INFO] Preparing start region
+2011-02-06 07:52:45 [INFO] Preparing spawn area: 12%
+2011-02-06 07:52:46 [INFO] Preparing spawn area: 28%
+2011-02-06 07:52:47 [INFO] Preparing spawn area: 52%
+2011-02-06 07:52:48 [INFO] Preparing spawn area: 73%
+2011-02-06 07:52:49 [INFO] Done! For help, type "help" or "?"
+2011-02-06 07:52:57 [INFO] Connected players: 
+2011-02-06 07:54:12 [INFO] CONSOLE: Stopping the server..
+2011-02-06 07:54:12 [INFO] Stopping server
+2011-02-06 07:54:12 [INFO] Saving chunks
+2011-02-06 07:54:14 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 07:54:14 [INFO] Loading properties
+2011-02-06 07:54:14 [INFO] Starting Minecraft server on *:25565
+2011-02-06 07:54:14 [INFO] Preparing level "world"
+2011-02-06 07:54:14 [INFO] Preparing start region
+2011-02-06 07:54:15 [INFO] Preparing spawn area: 12%
+2011-02-06 07:54:16 [INFO] Preparing spawn area: 48%
+2011-02-06 07:54:17 [INFO] Preparing spawn area: 97%
+2011-02-06 07:54:17 [INFO] Done! For help, type "help" or "?"
+2011-02-06 07:54:39 [INFO] jollysnowman [/127.0.1.1:38990] logged in with entity id 59
+2011-02-06 07:54:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-06 09:25:47 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 09:28:40 [INFO] CONSOLE: Stopping the server..
+2011-02-06 09:28:40 [INFO] Stopping server
+2011-02-06 09:28:40 [INFO] Saving chunks
+2011-02-06 09:31:35 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 09:31:35 [INFO] Loading properties
+2011-02-06 09:31:35 [INFO] Starting Minecraft server on *:25565
+2011-02-06 09:31:35 [INFO] Preparing level "world"
+2011-02-06 09:31:35 [INFO] Preparing start region
+2011-02-06 09:31:36 [INFO] Preparing spawn area: 8%
+2011-02-06 09:31:37 [INFO] Preparing spawn area: 32%
+2011-02-06 09:31:38 [INFO] Preparing spawn area: 73%
+2011-02-06 09:31:39 [INFO] Done! For help, type "help" or "?"
+2011-02-06 09:32:58 [INFO] deleryth [/192.168.1.2:49186] logged in with entity id 161
+2011-02-06 09:47:17 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-06 09:54:04 [INFO] jollysnowman [/127.0.1.1:46962] logged in with entity id 13162
+2011-02-06 10:06:41 [INFO] deleryth [/192.168.1.2:49377] logged in with entity id 23784
+2011-02-06 10:07:30 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-06 10:10:26 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 10:10:35 [INFO] CONSOLE: Stopping the server..
+2011-02-06 10:10:35 [INFO] Stopping server
+2011-02-06 10:10:35 [INFO] Saving chunks
+2011-02-06 10:38:50 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 10:38:50 [INFO] Loading properties
+2011-02-06 10:38:50 [INFO] Starting Minecraft server on *:25565
+2011-02-06 10:38:50 [INFO] Preparing level "world"
+2011-02-06 10:38:50 [INFO] Preparing start region
+2011-02-06 10:38:51 [INFO] Preparing spawn area: 8%
+2011-02-06 10:38:52 [INFO] Preparing spawn area: 28%
+2011-02-06 10:38:53 [INFO] Preparing spawn area: 73%
+2011-02-06 10:38:54 [INFO] Done! For help, type "help" or "?"
+2011-02-06 10:39:09 [INFO] jollysnowman [/127.0.1.1:37525] logged in with entity id 173
+2011-02-06 11:36:33 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 11:39:52 [INFO] jollysnowman [/127.0.1.1:35091] logged in with entity id 47402
+2011-02-06 12:15:57 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 12:23:07 [INFO] CONSOLE: Stopping the server..
+2011-02-06 12:23:07 [INFO] Stopping server
+2011-02-06 12:23:07 [INFO] Saving chunks
+2011-02-06 12:30:18 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 12:30:18 [INFO] Loading properties
+2011-02-06 12:30:18 [INFO] Starting Minecraft server on *:25565
+2011-02-06 12:30:18 [INFO] Preparing level "world"
+2011-02-06 12:30:18 [INFO] Preparing start region
+2011-02-06 12:30:20 [INFO] Preparing spawn area: 24%
+2011-02-06 12:30:21 [INFO] Preparing spawn area: 85%
+2011-02-06 12:30:21 [INFO] Done! For help, type "help" or "?"
+2011-02-06 12:30:53 [INFO] jollysnowman [/99.37.249.77:55200] logged in with entity id 153
+2011-02-06 12:36:21 [INFO] jollysnowman lost connection: disconnect.timeout
+2011-02-06 12:36:29 [INFO] jollysnowman [/99.37.249.77:55144] logged in with entity id 5397
+2011-02-06 12:45:45 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 12:46:01 [INFO] CONSOLE: Stopping the server..
+2011-02-06 12:46:01 [INFO] Stopping server
+2011-02-06 12:46:01 [INFO] Saving chunks
+2011-02-06 13:33:34 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 13:33:34 [INFO] Loading properties
+2011-02-06 13:33:34 [INFO] Starting Minecraft server on *:25565
+2011-02-06 13:33:34 [INFO] Preparing level "world"
+2011-02-06 13:33:34 [INFO] Preparing start region
+2011-02-06 13:33:35 [INFO] Preparing spawn area: 8%
+2011-02-06 13:33:36 [INFO] Preparing spawn area: 28%
+2011-02-06 13:33:37 [INFO] Preparing spawn area: 69%
+2011-02-06 13:33:38 [INFO] Done! For help, type "help" or "?"
+2011-02-06 13:33:57 [INFO] deleryth [/192.168.1.2:49338] logged in with entity id 141
+2011-02-06 13:34:10 [INFO] jollysnowman [/192.168.1.8:51927] logged in with entity id 458
+2011-02-06 13:34:40 [INFO] <jollysnowman> i made a compass
+2011-02-06 13:35:52 [INFO] <jollysnowman> yeah that's why i went inside
+2011-02-06 13:40:17 [INFO] <jollysnowman> is sulphur good?
+2011-02-06 13:40:27 [INFO] <deleryth> tnt
+2011-02-06 13:44:49 [INFO] <jollysnowman> nice fort
+2011-02-06 13:45:06 [INFO] <deleryth> it is coming
+2011-02-06 13:45:19 [INFO] <jollysnowman> check out where i am
+2011-02-06 13:45:34 [INFO] <deleryth> i dont see your name
+2011-02-06 13:49:50 [INFO] <jollysnowman> need help
+2011-02-06 14:07:55 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 14:07:58 [INFO] jollysnowman [/192.168.1.8:39486] logged in with entity id 40953
+2011-02-06 14:23:56 [INFO] <jollysnowman> that is really big
+2011-02-06 14:24:03 [INFO] <deleryth> jsut wait
+2011-02-06 14:24:10 [INFO] <jollysnowman> how do you get up there?
+2011-02-06 14:24:12 [INFO] <deleryth> thatwas stage 1
+2011-02-06 14:24:33 [INFO] <deleryth> through the cave, on the tree
+2011-02-06 14:24:38 [INFO] <jollysnowman> lol yeah i see the door
+2011-02-06 14:25:02 [INFO] <jollysnowman> wow
+2011-02-06 14:25:04 [INFO] <jollysnowman> hahaah
+2011-02-06 14:40:16 [INFO] <jollysnowman> dude
+2011-02-06 14:40:22 [INFO] <jollysnowman> holy shit
+2011-02-06 14:40:28 [INFO] <deleryth> i think im am done with stage 2
+2011-02-06 14:40:41 [INFO] <jollysnowman> can you see mine
+2011-02-06 14:40:45 [INFO] <jollysnowman> you have to be on top of yorus
+2011-02-06 14:40:58 [INFO] <deleryth> yes
+2011-02-06 14:40:58 [INFO] <jollysnowman> i'm pretty far
+2011-02-06 14:41:16 [INFO] <deleryth> did you steal all the glass?
+2011-02-06 14:41:20 [INFO] <jollysnowman> made it
+2011-02-06 14:41:24 [INFO] <jollysnowman> i have a furnace here haha
+2011-02-06 15:17:56 [INFO] <jollysnowman> is that th etop?
+2011-02-06 15:18:01 [INFO] <deleryth> yes
+2011-02-06 15:18:12 [INFO] <jollysnowman> very nice
+2011-02-06 15:24:14 [INFO] <jollysnowman> JUMPED BITCH
+2011-02-06 15:36:21 [INFO] <deleryth> you got any coal?
+2011-02-06 15:36:39 [INFO] <jollysnowman> at least 36
+2011-02-06 15:36:42 [INFO] <deleryth> nm i had some
+2011-02-06 15:36:47 [INFO] <deleryth> jsut missed it
+2011-02-06 15:36:59 [INFO] <jollysnowman> the lava looks blueish from this far
+2011-02-06 16:01:18 [INFO] <jollysnowman> what brings you over here
+2011-02-06 16:25:03 [INFO] <jollysnowman> found the stash
+2011-02-06 16:25:11 [INFO] <jollysnowman> where are you?
+2011-02-06 16:25:13 [INFO] <deleryth> steal it, lets hid the stuff
+2011-02-06 16:25:18 [INFO] <jollysnowman> come look at it
+2011-02-06 16:25:19 [INFO] <deleryth> the keep
+2011-02-06 16:27:17 [INFO] <jollysnowman> behind you
+2011-02-06 16:27:26 [INFO] <deleryth> move im gettign rid the othe ledge
+2011-02-06 16:27:59 [INFO] <jollysnowman> hurry up and come looook
+2011-02-06 16:28:00 [INFO] <jollysnowman> wahhh
+2011-02-06 16:34:07 [INFO] <jollysnowman> tower of power, really
+2011-02-06 16:34:12 [INFO] <deleryth> yup
+2011-02-06 16:34:26 [INFO] <deleryth> i need to make/ the thunderdome too
+2011-02-06 16:38:43 [INFO] <jollysnowman> alright it's day let's go
+2011-02-06 16:42:44 [INFO] <jollysnowman> it's a mob spawner
+2011-02-06 16:42:48 [INFO] <jollysnowman> i looekd it up
+2011-02-06 16:42:56 [INFO] <deleryth> nice
+2011-02-06 16:55:16 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 16:55:38 [INFO] jollysnowman [/192.168.1.8:57435] logged in with entity id 249024
+2011-02-06 16:59:39 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-06 17:11:36 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 17:11:46 [INFO] CONSOLE: Stopping the server..
+2011-02-06 17:11:46 [INFO] Stopping server
+2011-02-06 17:11:46 [INFO] Saving chunks
+2011-02-06 17:16:49 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 17:16:49 [INFO] Loading properties
+2011-02-06 17:16:49 [INFO] Starting Minecraft server on *:25565
+2011-02-06 17:16:49 [INFO] Preparing level "world"
+2011-02-06 17:16:49 [INFO] Preparing start region
+2011-02-06 17:16:51 [INFO] Preparing spawn area: 8%
+2011-02-06 17:16:52 [INFO] Preparing spawn area: 24%
+2011-02-06 17:16:53 [INFO] Preparing spawn area: 65%
+2011-02-06 17:16:53 [INFO] Done! For help, type "help" or "?"
+2011-02-06 17:17:20 [INFO] jollysnowman [/192.168.1.8:55085] logged in with entity id 146
+2011-02-06 17:17:35 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 17:17:45 [INFO] Connected players: 
+2011-02-06 20:37:05 [INFO] bccbrendan [/192.168.1.4:49388] logged in with entity id 230
+2011-02-06 20:40:06 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-06 20:56:35 [INFO] bccbrendan [/192.168.1.4:49497] logged in with entity id 3374
+2011-02-06 21:17:15 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-06 21:19:51 [INFO] Connected players: 
+2011-02-06 21:29:01 [INFO] Connected players: 
+2011-02-06 21:29:02 [INFO] To run the server without a gui, start it like this:
+2011-02-06 21:29:02 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-02-06 21:29:02 [INFO] Console commands:
+2011-02-06 21:29:02 [INFO]    help  or  ?               shows this message
+2011-02-06 21:29:02 [INFO]    kick <player>             removes a player from the server
+2011-02-06 21:29:02 [INFO]    ban <player>              bans a player from the server
+2011-02-06 21:29:02 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-02-06 21:29:02 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-02-06 21:29:02 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-02-06 21:29:02 [INFO]    op <player>               turns a player into an op
+2011-02-06 21:29:02 [INFO]    deop <player>             removes op status from a player
+2011-02-06 21:29:02 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-02-06 21:29:02 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-02-06 21:29:02 [INFO]    tell <player> <message>   sends a private message to a player
+2011-02-06 21:29:02 [INFO]    stop                      gracefully stops the server
+2011-02-06 21:29:02 [INFO]    save-all                  forces a server-wide level save
+2011-02-06 21:29:02 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-02-06 21:29:02 [INFO]    save-on                   re-enables terrain saving
+2011-02-06 21:29:02 [INFO]    list                      lists all currently connected players
+2011-02-06 21:29:02 [INFO]    say <message>             broadcasts a message to all players
+2011-02-06 21:31:53 [INFO] jollysnowman [/192.168.1.8:36686] logged in with entity id 28855
+2011-02-06 21:31:59 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 22:00:07 [INFO] /204.16.252.112:47039 lost connection
+2011-02-06 22:06:01 [INFO] jollysnowman [/192.168.0.4:55053] logged in with entity id 29462
+2011-02-06 22:06:26 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-06 22:06:31 [INFO] jollysnowman [/192.168.0.4:55056] logged in with entity id 29896
+2011-02-06 22:15:18 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-06 22:16:28 [INFO] chimz [/70.112.177.246:60016] logged in with entity id 34726
+2011-02-06 22:16:35 [INFO] <chimz> WIN
+2011-02-06 22:18:14 [INFO] Unknown console command. Type "help" for help.
+2011-02-06 22:18:21 [INFO] To run the server without a gui, start it like this:
+2011-02-06 22:18:21 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-02-06 22:18:21 [INFO] Console commands:
+2011-02-06 22:18:21 [INFO]    help  or  ?               shows this message
+2011-02-06 22:18:21 [INFO]    kick <player>             removes a player from the server
+2011-02-06 22:18:21 [INFO]    ban <player>              bans a player from the server
+2011-02-06 22:18:21 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-02-06 22:18:21 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-02-06 22:18:21 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-02-06 22:18:21 [INFO]    op <player>               turns a player into an op
+2011-02-06 22:18:21 [INFO]    deop <player>             removes op status from a player
+2011-02-06 22:18:21 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-02-06 22:18:21 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-02-06 22:18:21 [INFO]    tell <player> <message>   sends a private message to a player
+2011-02-06 22:18:21 [INFO]    stop                      gracefully stops the server
+2011-02-06 22:18:21 [INFO]    save-all                  forces a server-wide level save
+2011-02-06 22:18:21 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-02-06 22:18:21 [INFO]    save-on                   re-enables terrain saving
+2011-02-06 22:18:21 [INFO]    list                      lists all currently connected players
+2011-02-06 22:18:21 [INFO]    say <message>             broadcasts a message to all players
+2011-02-06 22:18:32 [INFO] [CONSOLE] "danimal are you on?"
+2011-02-06 22:18:36 [INFO] <chimz> Yes
+2011-02-06 22:18:39 [INFO] <chimz> it works
+2011-02-06 22:18:52 [INFO] [CONSOLE] "cause i have connection refused lol wtf"
+2011-02-06 22:18:53 [INFO] <chimz> I'm not sure about the latency though
+2011-02-06 22:18:57 [INFO] <chimz> weird
+2011-02-06 22:19:04 [INFO] <chimz> i'm putting torches and stuff in my room
+2011-02-06 22:19:08 [INFO] <chimz> where are you
+2011-02-06 22:19:27 [INFO] [CONSOLE] "well i logged out and i'm trying to reconnect and the connection is refusing"
+2011-02-06 22:19:33 [INFO] <chimz> Lolol
+2011-02-06 22:19:41 [INFO] [CONSOLE] "i'm talking to you as the server lol"
+2011-02-06 22:19:41 [INFO] <chimz> Hmmmmm
+2011-02-06 22:20:05 [INFO] <chimz> It may be possible that the firewall on one of the routers is confused because of two connections to
+2011-02-06 22:20:10 [INFO] <chimz> the same port
+2011-02-06 22:20:20 [INFO] <chimz> but it should be able to deal with that
+2011-02-06 22:20:59 [INFO] [CONSOLE] "but i was able to connect before"
+2011-02-06 22:21:26 [INFO] <chimz> also it takes like 30 seconds to open a treasur chest
+2011-02-06 22:22:18 [INFO] [CONSOLE] "hm"
+2011-02-06 22:22:26 [INFO] [CONSOLE] "that could just be the crappy internet"
+2011-02-06 22:22:31 [INFO] <chimz> logged in on aim
+2011-02-06 22:22:45 [INFO] <chimz> it's faster after the first time
+2011-02-06 22:27:00 [INFO] chimz lost connection: disconnect.quitting
+2011-02-06 22:27:09 [INFO] CONSOLE: Stopping the server..
+2011-02-06 22:27:09 [INFO] Stopping server
+2011-02-06 22:27:09 [INFO] Saving chunks
+2011-02-06 22:36:10 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 22:36:10 [INFO] Loading properties
+2011-02-06 22:36:10 [INFO] Starting Minecraft server on *:25565
+2011-02-06 22:36:10 [INFO] Preparing level "world"
+2011-02-06 22:36:10 [INFO] Preparing start region
+2011-02-06 22:36:11 [INFO] Preparing spawn area: 20%
+2011-02-06 22:36:12 [INFO] Preparing spawn area: 85%
+2011-02-06 22:36:13 [INFO] Done! For help, type "help" or "?"
+2011-02-06 22:36:32 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 22:36:32 [INFO] Loading properties
+2011-02-06 22:36:32 [INFO] Starting Minecraft server on *:25565
+2011-02-06 22:36:32 [INFO] Preparing level "world"
+2011-02-06 22:36:32 [INFO] Preparing start region
+2011-02-06 22:36:33 [INFO] Preparing spawn area: 28%
+2011-02-06 22:36:34 [INFO] Preparing spawn area: 85%
+2011-02-06 22:36:35 [INFO] Done! For help, type "help" or "?"
+2011-02-06 22:37:33 [INFO] jollysnowman [/99.37.249.77:55003] logged in with entity id 157
+2011-02-06 22:38:10 [INFO] chimz [/70.112.177.246:60319] logged in with entity id 1483
+2011-02-06 22:38:24 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-06 22:38:57 [INFO] jollysnowman [/99.37.249.77:55023] logged in with entity id 1619
+2011-02-06 22:39:22 [INFO] chimz lost connection: disconnect.quitting
+2011-02-06 22:40:03 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-06 22:40:40 [INFO] jollysnowman [/99.37.249.77:55064] logged in with entity id 3162
+2011-02-06 22:41:35 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-06 22:42:21 [INFO] jollysnowman [/99.37.249.77:55101] logged in with entity id 4169
+2011-02-06 22:43:37 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-06 22:44:32 [INFO] Connected players: 
+2011-02-06 22:44:34 [INFO] CONSOLE: Stopping the server..
+2011-02-06 22:44:34 [INFO] Stopping server
+2011-02-06 22:44:34 [INFO] Saving chunks
+2011-02-06 22:45:33 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 22:45:33 [INFO] Loading properties
+2011-02-06 22:45:33 [INFO] Starting Minecraft server on *:25565
+2011-02-06 22:45:33 [INFO] Preparing level "world"
+2011-02-06 22:45:33 [INFO] Preparing start region
+2011-02-06 22:45:34 [INFO] Preparing spawn area: 8%
+2011-02-06 22:45:35 [INFO] Preparing spawn area: 24%
+2011-02-06 22:45:36 [INFO] Preparing spawn area: 40%
+2011-02-06 22:45:37 [INFO] Preparing spawn area: 57%
+2011-02-06 22:45:38 [INFO] Preparing spawn area: 77%
+2011-02-06 22:45:39 [INFO] Preparing spawn area: 97%
+2011-02-06 22:45:39 [INFO] Done! For help, type "help" or "?"
+2011-02-06 22:45:54 [INFO] jollysnowman [/99.37.249.77:55022] logged in with entity id 164
+2011-02-06 22:46:37 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-06 22:46:40 [INFO] Connected players: 
+2011-02-06 22:47:30 [INFO] jollysnowman [/99.37.249.77:55026] logged in with entity id 377
+2011-02-06 22:50:47 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-06 22:50:57 [INFO] CONSOLE: Stopping the server..
+2011-02-06 22:50:57 [INFO] Stopping server
+2011-02-06 22:50:57 [INFO] Saving chunks
+2011-02-06 22:51:21 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-06 22:51:21 [INFO] Loading properties
+2011-02-06 22:51:21 [INFO] Starting Minecraft server on *:25565
+2011-02-06 22:51:21 [INFO] Preparing level "world"
+2011-02-06 22:51:21 [INFO] Preparing start region
+2011-02-06 22:51:22 [INFO] Preparing spawn area: 16%
+2011-02-06 22:51:23 [INFO] Preparing spawn area: 36%
+2011-02-06 22:51:24 [INFO] Preparing spawn area: 61%
+2011-02-06 22:51:25 [INFO] Preparing spawn area: 85%
+2011-02-06 22:51:26 [INFO] Done! For help, type "help" or "?"
+2011-02-06 22:51:51 [INFO] jollysnowman [/99.37.249.77:55014] logged in with entity id 118
+2011-02-06 22:52:44 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-06 22:53:08 [INFO] jollysnowman [/99.37.249.77:55020] logged in with entity id 633
+2011-02-06 22:58:44 [INFO] chimz [/70.112.177.246:61040] logged in with entity id 6163
+2011-02-06 23:21:30 [INFO] <chimz> no
+2011-02-06 23:21:41 [INFO] <chimz> which one is it
+2011-02-06 23:22:00 [INFO] <jollysnowman> just a sec
+2011-02-06 23:22:03 [INFO] <jollysnowman> lemme get out hahaha
+2011-02-06 23:22:50 [INFO] <jollysnowman> go to the wheat farm
+2011-02-06 23:23:18 [INFO] <chimz> ok
+2011-02-06 23:23:27 [INFO] <jollysnowman> see thsoe stairs going up
+2011-02-06 23:23:33 [INFO] <chimz> yeah
+2011-02-06 23:23:42 [INFO] <jollysnowman> see me?
+2011-02-06 23:23:47 [INFO] <chimz> yah
+2011-02-06 23:23:54 [INFO] <jollysnowman> WELCOME
+2011-02-06 23:24:16 [INFO] <chimz> cool
+2011-02-06 23:24:25 [INFO] <chimz> where's this cavern
+2011-02-06 23:24:37 [INFO] <jollysnowman> ok be careful
+2011-02-06 23:24:45 [INFO] <jollysnowman> lemme go first
+2011-02-06 23:25:02 [INFO] <jollysnowman> i found it mostly like this
+2011-02-06 23:25:05 [INFO] <chimz> dark is coming
+2011-02-06 23:25:11 [INFO] <jollysnowman> we'll be ok
+2011-02-06 23:25:55 [INFO] <jollysnowman> it was this deep
+2011-02-06 23:25:59 [INFO] <chimz> wow
+2011-02-06 23:26:13 [INFO] <chimz> we need to build a vertical drop shaft
+2011-02-06 23:26:19 [INFO] <jollysnowman> insane huh
+2011-02-06 23:26:21 [INFO] <jollysnowman> lol yeah
+2011-02-06 23:26:24 [INFO] <chimz> straight down with water at the bottom it's neat
+2011-02-06 23:26:48 [INFO] <chimz> cool did you mine this or did you find ti
+2011-02-06 23:26:52 [INFO] <jollysnowman> found it
+2011-02-06 23:26:57 [INFO] <chimz> neat
+2011-02-06 23:27:00 [INFO] <jollysnowman> i barely made any mods
+2011-02-06 23:28:21 [INFO] <jollysnowman> sweet huh
+2011-02-06 23:28:24 [INFO] <chimz> yep
+2011-02-06 23:28:50 [INFO] <chimz> who put the lava on their fort
+2011-02-06 23:28:59 [INFO] <jollysnowman> you should claim the other mountain
+2011-02-06 23:29:00 [INFO] <jollysnowman> thomas
+2011-02-06 23:29:06 [INFO] <chimz> cool where is it
+2011-02-06 23:29:09 [INFO] <chimz> it's a bit dark
+2011-02-06 23:29:19 [INFO] <jollysnowman> that way
+2011-02-06 23:29:32 [INFO] <chimz> the stone one?
+2011-02-06 23:29:34 [INFO] <jollysnowman> yeah
+2011-02-06 23:29:58 [INFO] <chimz> creeper right there
+2011-02-06 23:30:08 [INFO] <jollysnowman> dammit
+2011-02-06 23:30:11 [INFO] <jollysnowman> just stay inside
+2011-02-06 23:30:34 [INFO] <chimz> creeper way down here too
+2011-02-06 23:30:40 [INFO] <jollysnowman> i love how this randomly happened
+2011-02-06 23:30:47 [INFO] <chimz> corruption is fun
+2011-02-06 23:31:34 [INFO] <jollysnowman> i wish i could make a tv haha
+2011-02-06 23:31:43 [INFO] <chimz> you can make a cd player
+2011-02-06 23:31:47 [INFO] <chimz> but you have to find the cd first
+2011-02-06 23:31:50 [INFO] <jollysnowman> ha
+2011-02-06 23:32:15 [INFO] <jollysnowman> i love my view though
+2011-02-06 23:32:30 [INFO] <chimz> yep pretty sweet
+2011-02-06 23:33:12 [INFO] <chimz> arrow guy on top
+2011-02-06 23:33:16 [INFO] <chimz> other side
+2011-02-06 23:33:20 [INFO] <jollysnowman> dammit
+2011-02-06 23:33:34 [INFO] <chimz> i dont' see him anymore
+2011-02-06 23:34:18 [INFO] <chimz> sun coming up
+2011-02-06 23:34:25 [INFO] <jollysnowman> burn bitches
+2011-02-06 23:35:14 [INFO] <jollysnowman> i need to make a bow & arrow
+2011-02-06 23:35:27 [INFO] <chimz> need more string
+2011-02-06 23:36:11 [INFO] <jollysnowman> might just kill him
+2011-02-06 23:36:13 [INFO] <chimz> your glass is shielding the monsters from the sun
+2011-02-06 23:37:04 [INFO] <jollysnowman> i'm gonna try to lead them away
+2011-02-06 23:37:22 [INFO] <chimz> if you jump into water you dont' take fall damage,r ight?
+2011-02-06 23:37:47 [INFO] <jollysnowman> fuck i died
+2011-02-06 23:37:50 [INFO] <jollysnowman> yeah you do
+2011-02-06 23:39:07 [INFO] <jollysnowman> thank you come again
+2011-02-06 23:39:11 [INFO] <chimz> lol
+2011-02-07 00:01:35 [INFO] deleryth [/66.199.105.126:49201] logged in with entity id 76763
+2011-02-07 00:02:32 [INFO] <jollysnowman> let's talk here
+2011-02-07 00:02:35 [INFO] <deleryth> yo
+2011-02-07 00:03:05 [INFO] <deleryth> how do you see other player status and such
+2011-02-07 00:03:15 [INFO] <jollysnowman> server does
+2011-02-07 00:03:40 [INFO] <deleryth> i meant like how to see who is on the server
+2011-02-07 00:03:45 [INFO] <deleryth> or can i not see that
+2011-02-07 00:03:51 [INFO] <jollysnowman> iono if you can
+2011-02-07 00:04:01 [INFO] <jollysnowman> danimal's here
+2011-02-07 00:04:21 [INFO] chimz tried command: info
+2011-02-07 00:04:25 [INFO] chimz tried command: help
+2011-02-07 00:04:37 [INFO] <jollysnowman> apparently danimal tried "info" and "help"
+2011-02-07 00:04:40 [INFO] <jollysnowman> hahahaha
+2011-02-07 00:06:43 [INFO] <jollysnowman> so i have a case, cpu, motherboard, and thomas has mem
+2011-02-07 00:06:51 [INFO] <jollysnowman> we just need a power supply and a small hard drive
+2011-02-07 00:14:06 [INFO] <jollysnowman> list
+2011-02-07 00:14:12 [INFO] <chimz> it's /
+2011-02-07 00:14:16 [INFO] chimz tried command: list
+2011-02-07 00:14:17 [INFO] deleryth tried command: list
+2011-02-07 00:14:33 [INFO] deleryth tried command: list
+2011-02-07 00:14:50 [INFO] <jollysnowman> what do you mean "/"
+2011-02-07 00:15:05 [INFO] <chimz> iirc to make a command its' /command
+2011-02-07 00:15:08 [INFO] <chimz> but i dunno
+2011-02-07 00:15:11 [INFO] jollysnowman tried command: list
+2011-02-07 00:15:18 [INFO] <jollysnowman> ah ok
+2011-02-07 00:18:07 [INFO] <jollysnowman> are there buckets in the comm chest
+2011-02-07 00:18:19 [INFO] <chimz> there's a creeper right here argh
+2011-02-07 00:18:26 [INFO] <deleryth> where is here?
+2011-02-07 00:18:32 [INFO] <deleryth> and not that i know of
+2011-02-07 00:18:33 [INFO] <chimz> near the house
+2011-02-07 00:18:40 [INFO] <chimz> i has a bucket if you need one
+2011-02-07 00:19:03 [INFO] <jollysnowman> i have 3 lol. just wanted to see if there are more
+2011-02-07 00:19:08 [INFO] <jollysnowman> don't worry abot it
+2011-02-07 00:19:23 [INFO] <deleryth> i have no iron last i checked :(
+2011-02-07 00:19:36 [INFO] <jollysnowman> i have lots of iron but i don't wanna use it hahaha
+2011-02-07 00:20:29 [INFO] <deleryth> i used all mine yesterday making the damn mob farm
+2011-02-07 00:20:51 [INFO] <jollysnowman> how do you make a bucket
+2011-02-07 00:20:59 [INFO] <deleryth> 3 iron
+2011-02-07 00:21:13 [INFO] <jollysnowman> oh ok
+2011-02-07 00:21:15 [INFO] <jollysnowman> i can use that
+2011-02-07 00:21:21 [INFO] <chimz> fuck the crreper blew up
+2011-02-07 00:21:27 [INFO] <jollysnowman> where
+2011-02-07 00:21:34 [INFO] <chimz> nothing was hurt
+2011-02-07 00:28:38 [INFO] <jollysnowman> how's the tower
+2011-02-07 00:28:55 [INFO] <deleryth> im putting off work for the moment
+2011-02-07 00:29:09 [INFO] <deleryth> digging i am a bit low on resources
+2011-02-07 00:29:30 [INFO] <jollysnowman> next mine we make needs to be more organized
+2011-02-07 00:42:32 [INFO] <jollysnowman> did you die thomas
+2011-02-07 00:42:38 [INFO] <deleryth> nope
+2011-02-07 00:42:55 [INFO] <jollysnowman> weird
+2011-02-07 00:43:02 [INFO] <deleryth> why?
+2011-02-07 00:43:09 [INFO] <jollysnowman> it reloaded your profile
+2011-02-07 00:44:28 [INFO] <deleryth> i managed to dig into our initial mine from the new one lol
+2011-02-07 00:44:34 [INFO] <jollysnowman> hahaha
+2011-02-07 00:48:35 [INFO] <deleryth> there is lava everywhere down here
+2011-02-07 00:48:47 [INFO] <chimz> hi
+2011-02-07 00:48:50 [INFO] <jollysnowman> hi
+2011-02-07 00:48:52 [INFO] <chimz> check this out
+2011-02-07 00:49:15 [INFO] <jollysnowman> whoaa
+2011-02-07 00:49:28 [INFO] <jollysnowman> hahahahhaa
+2011-02-07 00:49:34 [INFO] <jollysnowman> can you ride it up?
+2011-02-07 00:49:35 [INFO] <chimz> elevator
+2011-02-07 00:49:39 [INFO] <chimz> if you have a boat
+2011-02-07 00:49:48 [INFO] <jollysnowman> i need that for mine
+2011-02-07 00:49:58 [INFO] <jollysnowman> oh thomas when you have time i should show this huge ass cavern i found
+2011-02-07 00:50:06 [INFO] <chimz> chek
+2011-02-07 00:50:40 [INFO] <chimz> stuck?
+2011-02-07 00:50:48 [INFO] <chimz> space bar is up in water
+2011-02-07 00:50:59 [INFO] <chimz> go straight up the waterfall
+2011-02-07 00:50:59 [INFO] <jollysnowman> wtf
+2011-02-07 00:51:39 [INFO] <jollysnowman> that's pretty neta
+2011-02-07 01:08:18 [INFO] jollysnowman lost connection: disconnect.timeout
+2011-02-07 01:10:05 [INFO] jollysnowman [/99.37.249.77:55056] logged in with entity id 138859
+2011-02-07 01:10:42 [INFO] <jollysnowman> i'm stuck on an island lol
+2011-02-07 01:11:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-07 01:15:17 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 01:16:48 [INFO] <deleryth> i just killed myself in my house
+2011-02-07 01:20:00 [INFO] jollysnowman [/99.37.249.77:55054] logged in with entity id 147555
+2011-02-07 01:25:34 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 01:26:00 [INFO] jollysnowman [/99.37.249.77:55016] logged in with entity id 154859
+2011-02-07 01:28:06 [INFO] <chimz> i think i found a cavern
+2011-02-07 01:28:21 [INFO] <chimz> lots of scary noises at the bottom of my mine
+2011-02-07 01:28:25 [INFO] <deleryth> haha
+2011-02-07 01:28:28 [INFO] <jollysnowman> uh oh
+2011-02-07 01:28:32 [INFO] <chimz> anyone wanna come explore it
+2011-02-07 01:28:40 [INFO] <jollysnowman> during the day
+2011-02-07 01:28:43 [INFO] <deleryth> check out the waterfall outta my house!
+2011-02-07 01:28:45 [INFO] <jollysnowman> i'm kinda stuck here haha
+2011-02-07 01:29:03 [INFO] <jollysnowman> ncie thomas
+2011-02-07 01:29:08 [INFO] <jollysnowman> i can see it from myplace
+2011-02-07 01:30:51 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 01:31:17 [INFO] jollysnowman [/99.37.249.77:55011] logged in with entity id 159537
+2011-02-07 01:33:19 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-07 01:33:37 [INFO] jollysnowman [/99.37.249.77:55016] logged in with entity id 161293
+2011-02-07 01:39:50 [INFO] <deleryth> how do you use a boat? i cant get it to work well
+2011-02-07 01:39:56 [INFO] <jollysnowman> i don't know
+2011-02-07 01:40:25 [INFO] <chimz> i'm on a boat
+2011-02-07 01:40:32 [INFO] <jollysnowman> i'm on a boat
+2011-02-07 01:40:50 [INFO] <chimz> not hard to use on open water
+2011-02-07 01:41:34 [INFO] <jollysnowman> your boat is floating away
+2011-02-07 01:41:36 [INFO] <chimz> getting out is hard
+2011-02-07 01:41:37 [INFO] <jollysnowman> hahahahha
+2011-02-07 01:43:06 [INFO] <chimz> there we go my quick down shaft is working
+2011-02-07 01:43:20 [INFO] <chimz> come check it out
+2011-02-07 01:44:13 [INFO] <chimz> needs ladders for up
+2011-02-07 01:44:17 [INFO] <jollysnowman> next time
+2011-02-07 01:44:21 [INFO] <jollysnowman> i'm going to bed lol
+2011-02-07 01:44:25 [INFO] <jollysnowman> night guys
+2011-02-07 01:44:38 [INFO] <deleryth> yeah same for me
+2011-02-07 01:45:30 [INFO] <jollysnowman> oh, and for now, server downtime is 8am-2pm
+2011-02-07 01:45:37 [INFO] <chimz> ok sounds good
+2011-02-07 01:45:45 [INFO] <deleryth> works for me
+2011-02-07 01:45:50 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-07 01:51:01 [INFO] <chimz> q: why do that
+2011-02-07 01:51:09 [INFO] <chimz> oh neat
+2011-02-07 01:51:12 [INFO] <deleryth> turn around
+2011-02-07 01:51:21 [INFO] <chimz> much better
+2011-02-07 01:58:34 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-07 02:06:19 [INFO] chimz lost connection: disconnect.quitting
+2011-02-07 08:46:50 [INFO] CONSOLE: Stopping the server..
+2011-02-07 08:46:50 [INFO] Stopping server
+2011-02-07 08:46:50 [INFO] Saving chunks
+2011-02-07 10:28:46 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-07 10:28:46 [INFO] Loading properties
+2011-02-07 10:28:46 [INFO] Starting Minecraft server on *:25565
+2011-02-07 10:28:46 [INFO] Preparing level "world"
+2011-02-07 10:28:46 [INFO] Preparing start region
+2011-02-07 10:28:47 [INFO] Preparing spawn area: 8%
+2011-02-07 10:28:48 [INFO] Preparing spawn area: 20%
+2011-02-07 10:28:49 [INFO] Preparing spawn area: 36%
+2011-02-07 10:28:50 [INFO] Preparing spawn area: 48%
+2011-02-07 10:28:51 [INFO] Preparing spawn area: 65%
+2011-02-07 10:28:52 [INFO] Preparing spawn area: 77%
+2011-02-07 10:28:53 [INFO] Preparing spawn area: 93%
+2011-02-07 10:28:54 [INFO] Done! For help, type "help" or "?"
+2011-02-07 10:29:08 [INFO] jollysnowman [/99.37.249.77:55001] logged in with entity id 111
+2011-02-07 10:48:00 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-07 10:48:24 [INFO] CONSOLE: Stopping the server..
+2011-02-07 10:48:24 [INFO] Stopping server
+2011-02-07 10:48:24 [INFO] Saving chunks
+2011-02-07 12:25:27 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-07 12:25:27 [INFO] Loading properties
+2011-02-07 12:25:27 [INFO] Starting Minecraft server on *:25565
+2011-02-07 12:25:27 [INFO] Preparing level "world"
+2011-02-07 12:25:27 [INFO] Preparing start region
+2011-02-07 12:25:28 [INFO] Preparing spawn area: 8%
+2011-02-07 12:25:29 [INFO] Preparing spawn area: 20%
+2011-02-07 12:25:30 [INFO] Preparing spawn area: 32%
+2011-02-07 12:25:31 [INFO] Preparing spawn area: 44%
+2011-02-07 12:25:32 [INFO] Preparing spawn area: 56%
+2011-02-07 12:25:33 [INFO] Preparing spawn area: 69%
+2011-02-07 12:25:34 [INFO] Preparing spawn area: 81%
+2011-02-07 12:25:35 [INFO] Preparing spawn area: 93%
+2011-02-07 12:25:35 [INFO] Done! For help, type "help" or "?"
+2011-02-07 12:27:03 [INFO] jollysnowman [/99.37.249.77:55007] logged in with entity id 157
+2011-02-07 13:06:28 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 13:13:07 [INFO] jollysnowman [/99.37.249.77:55031] logged in with entity id 33539
+2011-02-07 13:20:40 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 13:20:51 [INFO] jollysnowman [/99.37.249.77:55009] logged in with entity id 43408
+2011-02-07 13:22:01 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-07 13:22:14 [INFO] jollysnowman [/99.37.249.77:55018] logged in with entity id 43976
+2011-02-07 13:24:18 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-07 13:24:33 [INFO] jollysnowman [/99.37.249.77:55024] logged in with entity id 46586
+2011-02-07 13:25:41 [INFO] jollysnowman lost connection: disconnect.endOfStream
+2011-02-07 13:25:45 [INFO] Unknown console command. Type "help" for help.
+2011-02-07 13:25:52 [INFO] CONSOLE: Stopping the server..
+2011-02-07 13:25:52 [INFO] Stopping server
+2011-02-07 13:25:52 [INFO] Saving chunks
+2011-02-07 14:10:48 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-07 14:10:48 [INFO] Loading properties
+2011-02-07 14:10:48 [INFO] Starting Minecraft server on *:25565
+2011-02-07 14:10:48 [INFO] Preparing level "world"
+2011-02-07 14:10:48 [INFO] Preparing start region
+2011-02-07 14:10:49 [INFO] Preparing spawn area: 8%
+2011-02-07 14:10:50 [INFO] Preparing spawn area: 20%
+2011-02-07 14:10:51 [INFO] Preparing spawn area: 36%
+2011-02-07 14:10:52 [INFO] Preparing spawn area: 57%
+2011-02-07 14:10:53 [INFO] Preparing spawn area: 77%
+2011-02-07 14:10:54 [INFO] Preparing spawn area: 93%
+2011-02-07 14:10:54 [INFO] Done! For help, type "help" or "?"
+2011-02-07 14:10:59 [INFO] jollysnowman [/99.37.249.77:55010] logged in with entity id 143
+2011-02-07 14:38:04 [INFO] bccbrendan [/99.37.249.77:55014] logged in with entity id 31349
+2011-02-07 14:38:11 [INFO] <jollysnowman> awesome
+2011-02-07 14:38:20 [INFO] <bccbrendan> sup
+2011-02-07 14:38:22 [INFO] <jollysnowman> oh we were talking about building a computer
+2011-02-07 14:38:28 [INFO] <jollysnowman> i have some spare parts and so does thomas
+2011-02-07 14:38:38 [INFO] <bccbrendan> like a redstone computer?
+2011-02-07 14:38:46 [INFO] <jollysnowman> no a minecraft server
+2011-02-07 14:39:03 [INFO] <bccbrendan> whoah a minecraft server built in minecraft with redstone....
+2011-02-07 14:39:52 [INFO] <jollysnowman> yeah and we'd make a mineternet
+2011-02-07 14:41:16 [INFO] <bccbrendan> fffffuuuuuuu
+2011-02-07 14:41:33 [INFO] <jollysnowman> what
+2011-02-07 14:41:43 [INFO] <bccbrendan> double creeper attack by the trees
+2011-02-07 14:41:53 [INFO] <bccbrendan> ima put up some goddam torches around here
+2011-02-07 14:41:58 [INFO] <jollysnowman> that happened to me too
+2011-02-07 14:42:10 [INFO] <jollysnowman> but the hole he blew up had coal and iron lol
+2011-02-07 14:42:20 [INFO] <bccbrendan> fffffuuu again!
+2011-02-07 14:42:31 [INFO] <bccbrendan> i mean this is happening right now
+2011-02-07 14:42:39 [INFO] <bccbrendan> tree farm flooded
+2011-02-07 14:42:51 [INFO] <jollysnowman> wut
+2011-02-07 14:42:53 [INFO] <jollysnowman> fuck
+2011-02-07 14:43:39 [INFO] <jollysnowman> wow
+2011-02-07 14:43:45 [INFO] <bccbrendan> ugh every time i spawn this happens
+2011-02-07 14:43:46 [INFO] <jollysnowman> luckily i have a bunch of saplings
+2011-02-07 14:46:55 [INFO] <jollysnowman> ok the entrance is fixed
+2011-02-07 14:47:10 [INFO] <bccbrendan> thx im making coal for torches
+2011-02-07 14:49:20 [INFO] <bccbrendan> oops careful the roof has holes
+2011-02-07 14:49:41 [INFO] <jollysnowman> fixed lol
+2011-02-07 14:51:23 [INFO] <jollysnowman> good call
+2011-02-07 14:57:27 [INFO] <jollysnowman> i'm not having the java error in windows
+2011-02-07 14:57:46 [INFO] <bccbrendan> cool
+2011-02-07 14:58:32 [INFO] <jollysnowman> oh also it turns out the server can specify spawn points
+2011-02-07 14:58:36 [INFO] <jollysnowman> so i have to figure that out
+2011-02-07 14:59:25 [INFO] <bccbrendan> cool
+2011-02-07 14:59:32 [INFO] <bccbrendan> is that ur treehouse?
+2011-02-07 14:59:37 [INFO] <jollysnowman> almost
+2011-02-07 14:59:38 [INFO] <jollysnowman> haha
+2011-02-07 15:01:16 [INFO] <jollysnowman> if i place wood down in a tree will stuff grow fromit?
+2011-02-07 15:01:29 [INFO] <bccbrendan> dunno
+2011-02-07 15:07:43 [INFO] <jollysnowman> tree farm is growing again
+2011-02-07 15:15:35 [INFO] <jollysnowman> that was all my sand haha
+2011-02-07 15:22:32 [INFO] <bccbrendan> aw yeah grass all up in this bitch
+2011-02-07 15:22:38 [INFO] <jollysnowman> lol nice
+2011-02-07 15:23:42 [INFO] <jollysnowman> lol i dug literally one piece of sand and an entire cavern collapsed
+2011-02-07 15:24:23 [INFO] <bccbrendan> lol yeah when the world is gen'd the sand physics aren't simulated until they're touched
+2011-02-07 15:26:57 [INFO] <jollysnowman> jack o' lanterns!
+2011-02-07 15:29:56 [INFO] <jollysnowman> i just ran home so i could pee before sunset
+2011-02-07 15:30:37 [INFO] <bccbrendan> lol
+2011-02-07 15:30:56 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 15:31:11 [INFO] jollysnowman [/99.37.249.77:55052] logged in with entity id 91579
+2011-02-07 15:33:27 [INFO] Connected players: bccbrendan, jollysnowman
+2011-02-07 15:37:04 [INFO] Connected players: jollysnowman, bccbrendan
+2011-02-07 15:40:34 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-07 15:40:34 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 15:40:47 [INFO] bccbrendan [/99.37.249.77:55027] logged in with entity id 101195
+2011-02-07 15:40:52 [INFO] Unknown console command. Type "help" for help.
+2011-02-07 15:40:55 [INFO] Connected players: bccbrendan
+2011-02-07 15:40:59 [INFO] jollysnowman [/99.37.249.77:55006] logged in with entity id 101260
+2011-02-07 15:46:40 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 15:46:41 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-07 15:46:55 [INFO] jollysnowman [/99.37.249.77:55393] logged in with entity id 109790
+2011-02-07 15:59:01 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 15:59:15 [INFO] bccbrendan [/99.37.249.77:55031] logged in with entity id 121758
+2011-02-07 16:00:26 [INFO] jollysnowman [/99.37.249.77:55004] logged in with entity id 123362
+2011-02-07 16:01:14 [INFO] <jollysnowman> so what's the plan
+2011-02-07 16:01:27 [INFO] <bccbrendan> 1 sec
+2011-02-07 16:02:06 [INFO] <jollysnowman> i have sulphur. s hould we make tnt?
+2011-02-07 16:10:21 [INFO] <bccbrendan> lol yeah
+2011-02-07 16:10:25 [INFO] <bccbrendan> do you have torches
+2011-02-07 16:10:34 [INFO] <jollysnowman> putting them up
+2011-02-07 16:11:51 [INFO] <bccbrendan> i need to make some glass
+2011-02-07 16:11:55 [INFO] <jollysnowman> is this deep enough?
+2011-02-07 16:12:02 [INFO] <bccbrendan> yeah, see where i put dirt?
+2011-02-07 16:12:03 [INFO] <jollysnowman> here take my sand
+2011-02-07 16:12:08 [INFO] <bccbrendan> thats where the dirt goes
+2011-02-07 16:12:15 [INFO] <bccbrendan> do you have coal?
+2011-02-07 16:12:26 [INFO] <bccbrendan> thx
+2011-02-07 16:12:27 [INFO] <jollysnowman> yeah
+2011-02-07 16:12:38 [INFO] <bccbrendan> i need some for glass...
+2011-02-07 16:12:47 [INFO] <bccbrendan> whoah now that's good!
+2011-02-07 16:12:53 [INFO] <jollysnowman> hahaha i have a lot of coal
+2011-02-07 16:13:03 [INFO] <bccbrendan> fuck yeah thanks dude
+2011-02-07 16:17:57 [INFO] <bccbrendan> oops we're one too deep
+2011-02-07 16:18:03 [INFO] <jollysnowman> fuck
+2011-02-07 16:19:26 [INFO] <bccbrendan> ima do the roof
+2011-02-07 16:19:32 [INFO] <jollysnowman> drop your dirt
+2011-02-07 16:19:37 [INFO] <bccbrendan> got no more
+2011-02-07 16:21:31 [INFO] <bccbrendan> need more glass
+2011-02-07 16:21:44 [INFO] <jollysnowman> i'll get some from my fort
+2011-02-07 16:23:36 [INFO] <bccbrendan> aw yeah glass all up in this bitch
+2011-02-07 16:23:41 [INFO] chimz [/70.112.177.246:50798] logged in with entity id 137685
+2011-02-07 16:23:47 [INFO] <bccbrendan> sup chims
+2011-02-07 16:23:51 [INFO] <jollysnowman> lol i'm getting rid of allllmy sand
+2011-02-07 16:23:53 [INFO] <jollysnowman> finally
+2011-02-07 16:23:54 [INFO] <chimz> yo wha't'sup
+2011-02-07 16:24:02 [INFO] <jollysnowman> we're making another tree farm
+2011-02-07 16:24:04 [INFO] <chimz> there's a box in the storage room for sand
+2011-02-07 16:24:07 [INFO] <bccbrendan> we're making the old wheat farm into the tree farm
+2011-02-07 16:24:12 [INFO] <bccbrendan> cool
+2011-02-07 16:26:33 [INFO] <chimz> sup where is the new farm
+2011-02-07 16:26:42 [INFO] <jollysnowman> old wheat farm
+2011-02-07 16:26:42 [INFO] <bccbrendan> estebans at it now
+2011-02-07 16:27:46 [INFO] <bccbrendan> wtf
+2011-02-07 16:28:00 [INFO] <jollysnowman> what
+2011-02-07 16:28:03 [INFO] <bccbrendan> how do we get up here now?
+2011-02-07 16:28:09 [INFO] <jollysnowman> go around
+2011-02-07 16:28:13 [INFO] <jollysnowman> there's a door outside
+2011-02-07 16:28:23 [INFO] <bccbrendan> oh
+2011-02-07 16:29:12 [INFO] <bccbrendan> cool
+2011-02-07 16:29:26 [INFO] <jollysnowman> i did it so you can all the empty spots with trees
+2011-02-07 16:29:44 [INFO] <bccbrendan> yeah looks good
+2011-02-07 16:30:48 [INFO] <jollysnowman> the light pattern from the roof looks cool
+2011-02-07 16:31:30 [INFO] <bccbrendan> sweet
+2011-02-07 16:31:43 [INFO] <jollysnowman> help me fill this hole by the outside corner
+2011-02-07 16:33:36 [INFO] <jollysnowman> monster
+2011-02-07 16:33:58 [INFO] <jollysnowman> dude come tome
+2011-02-07 16:34:02 [INFO] <jollysnowman> or there
+2011-02-07 16:34:10 [INFO] <bccbrendan> almost dead
+2011-02-07 16:34:12 [INFO] <bccbrendan> need bread
+2011-02-07 16:42:51 [INFO] Connected players: bccbrendan, jollysnowman, chimz
+2011-02-07 16:43:16 [INFO] <bccbrendan> ima have a look at the mob trap
+2011-02-07 16:43:21 [INFO] <bccbrendan> maybe its salvageable
+2011-02-07 16:43:22 [INFO] <jollysnowman> cool
+2011-02-07 16:45:54 [INFO] <bccbrendan> some work needed but mostly still there
+2011-02-07 16:46:45 [INFO] <jollysnowman> do you need help
+2011-02-07 16:47:16 [INFO] <bccbrendan> very dangerous
+2011-02-07 16:47:20 [INFO] <bccbrendan> stay out
+2011-02-07 16:47:28 [INFO] <jollysnowman> so what's the plan withit
+2011-02-07 16:47:43 [INFO] <bccbrendan> suicide and put torches down
+2011-02-07 16:48:17 [INFO] <bccbrendan> you can come put torches down if you put all your stuff away first
+2011-02-07 16:48:23 [INFO] <jollysnowman> ok be there in a sec
+2011-02-07 16:48:23 [INFO] <bccbrendan> ill get the door
+2011-02-07 16:48:24 [INFO] <chimz> oh god died on fire
+2011-02-07 16:49:03 [INFO] <bccbrendan> lol carry a bucket o water yo
+2011-02-07 16:49:12 [INFO] <bccbrendan> you loose all ur armor in lava?
+2011-02-07 16:50:47 [INFO] <jollysnowman> who was at the door?
+2011-02-07 16:50:57 [INFO] <bccbrendan> kurt for his package
+2011-02-07 16:51:09 [INFO] <jollysnowman> oh yeah he msged me earlier
+2011-02-07 16:51:46 [INFO] <chimz> run brendan run
+2011-02-07 16:52:50 [INFO] <bccbrendan> where the fuck do they keep coming from?!
+2011-02-07 16:53:12 [INFO] <jollysnowman> ok i'm on my way now
+2011-02-07 16:53:27 [INFO] <bccbrendan> you got torches?
+2011-02-07 16:53:30 [INFO] <jollysnowman> yeah
+2011-02-07 16:53:33 [INFO] <bccbrendan> im not there right now
+2011-02-07 16:53:51 [INFO] <jollysnowman> eff that i'm waiting for backup
+2011-02-07 16:53:56 [INFO] <bccbrendan> you got a lot of torches?
+2011-02-07 16:54:00 [INFO] <jollysnowman> 20
+2011-02-07 16:54:14 [INFO] <bccbrendan> ok i need to make more
+2011-02-07 16:54:28 [INFO] <jollysnowman> haha a tree grew and hit me in the face
+2011-02-07 16:55:18 [INFO] <bccbrendan> lol ive died like that
+2011-02-07 16:56:16 [INFO] <bccbrendan> ima put all my other stuff up
+2011-02-07 16:56:45 [INFO] <jollysnowman> are we all going?
+2011-02-07 16:56:46 [INFO] <bccbrendan> hey chimz if you want to help light up the mob farm for maintenance..
+2011-02-07 16:56:54 [INFO] <bccbrendan> put all your other stuff up and follow us/
+2011-02-07 16:57:34 [INFO] <jollysnowman> FOR GLORY
+2011-02-07 16:58:34 [INFO] <bccbrendan> alright lets do this
+2011-02-07 16:59:06 [INFO] <jollysnowman> holt shit
+2011-02-07 16:59:27 [INFO] <bccbrendan> if i die get my torches and continue
+2011-02-07 16:59:52 [INFO] <jollysnowman> we need more ladders...
+2011-02-07 17:00:13 [INFO] <bccbrendan> i got one...
+2011-02-07 17:00:40 [INFO] <chimz> where are y'all
+2011-02-07 17:00:50 [INFO] <jollysnowman> in the mob farm
+2011-02-07 17:01:05 [INFO] <chimz> i followed mob farm but found only a dead end
+2011-02-07 17:02:21 [INFO] <bccbrendan> one sec chimz
+2011-02-07 17:02:26 [INFO] <bccbrendan> ah there you are
+2011-02-07 17:02:26 [INFO] <chimz> hi
+2011-02-07 17:02:52 [INFO] <jollysnowman> shit i broked it
+2011-02-07 17:02:53 [INFO] <chimz> what is the goal
+2011-02-07 17:03:11 [INFO] <bccbrendan> clear all this crap out
+2011-02-07 17:03:15 [INFO] <chimz> and why did ya'll block up th emiddle or is that one of those glitches
+2011-02-07 17:03:20 [INFO] <jollysnowman> glitch
+2011-02-07 17:03:46 [INFO] <bccbrendan> also light up dark spots and kill mob
+2011-02-07 17:03:53 [INFO] <jollysnowman> i think it's all lit
+2011-02-07 17:04:06 [INFO] <chimz> i put up my pickaxe
+2011-02-07 17:04:15 [INFO] <jollysnowman> yeah i'm bout to get mine
+2011-02-07 17:04:22 [INFO] <bccbrendan> if you have sticks you can make a stone one
+2011-02-07 17:04:36 [INFO] <jollysnowman> brb
+2011-02-07 17:05:10 [INFO] Connected players: jollysnowman, chimz, bccbrendan
+2011-02-07 17:08:08 [INFO] <jollysnowman> i got lost
+2011-02-07 17:08:09 [INFO] <jollysnowman> lol
+2011-02-07 17:08:11 [INFO] <bccbrendan> where the fuck are we
+2011-02-07 17:08:14 [INFO] <jollysnowman> my room
+2011-02-07 17:09:00 [INFO] <jollysnowman> dude where'd you go
+2011-02-07 17:09:19 [INFO] <bccbrendan> sry i was dyin so i got some bread
+2011-02-07 17:09:32 [INFO] <jollysnowman> i can't find the way to the mob room
+2011-02-07 17:09:51 [INFO] <jollysnowman> nvm
+2011-02-07 17:09:58 [INFO] <jollysnowman> danimal
+2011-02-07 17:10:03 [INFO] <chimz> sup
+2011-02-07 17:10:19 [INFO] <chimz> i 'm in mob room
+2011-02-07 17:10:24 [INFO] <jollysnowman> yeah i gve you a pickaxe
+2011-02-07 17:10:26 [INFO] <jollysnowman> haha
+2011-02-07 17:10:35 [INFO] <bccbrendan> k one sec im getting arrows and a better pick
+2011-02-07 17:10:48 [INFO] <chimz> weird why i picked up my diamond one
+2011-02-07 17:11:11 [INFO] <bccbrendan> did you tell thomas wher the server is
+2011-02-07 17:11:18 [INFO] <jollysnowman> there's a fb message
+2011-02-07 17:11:25 [INFO] <chimz> on facebook he should know
+2011-02-07 17:16:09 [INFO] <bccbrendan> esteban do you have buckets?
+2011-02-07 17:16:16 [INFO] <jollysnowman> not with me
+2011-02-07 17:16:44 [INFO] <bccbrendan> can you bring two with water pls?
+2011-02-07 17:16:49 [INFO] <jollysnowman> yeah sure
+2011-02-07 17:18:38 [INFO] <jollysnowman> got em on my wayback
+2011-02-07 17:18:47 [INFO] <bccbrendan> awesome
+2011-02-07 17:19:44 [INFO] <jollysnowman> where
+2011-02-07 17:20:01 [INFO] <bccbrendan> one on each side of this trecnh
+2011-02-07 17:20:27 [INFO] <jollysnowman> good?
+2011-02-07 17:20:28 [INFO] <bccbrendan> nice, now when we need water, take from the middle
+2011-02-07 17:20:37 [INFO] <jollysnowman> have a bucket
+2011-02-07 17:20:45 [INFO] <bccbrendan> thanks!
+2011-02-07 17:21:22 [INFO] <jollysnowman> is this grid in the middle supposed to behere?
+2011-02-07 17:21:28 [INFO] <chimz> having fun
+2011-02-07 17:21:28 [INFO] <bccbrendan> yeah
+2011-02-07 17:21:36 [INFO] <bccbrendan> that's the channels for the water
+2011-02-07 17:21:45 [INFO] <bccbrendan> most of them need to be deeper
+2011-02-07 17:22:10 [INFO] <jollysnowman> oops
+2011-02-07 17:22:14 [INFO] <bccbrendan> no prop
+2011-02-07 17:22:19 [INFO] <bccbrendan> this is where the lava was
+2011-02-07 17:22:19 [INFO] <jollysnowman> no i almost died haha
+2011-02-07 17:22:21 [INFO] <jollysnowman> now what
+2011-02-07 17:23:16 [INFO] <jollysnowman> do you havefood
+2011-02-07 17:23:16 [INFO] <bccbrendan> i forget how the channels go so lets just clear the top for now
+2011-02-07 17:23:56 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 17:23:58 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-07 17:25:16 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-07 17:25:16 [INFO] Loading properties
+2011-02-07 17:25:16 [INFO] Starting Minecraft server on *:25565
+2011-02-07 17:25:16 [INFO] Preparing level "world"
+2011-02-07 17:25:16 [INFO] Preparing start region
+2011-02-07 17:25:17 [INFO] Preparing spawn area: 16%
+2011-02-07 17:25:18 [INFO] Preparing spawn area: 73%
+2011-02-07 17:25:19 [INFO] Done! For help, type "help" or "?"
+2011-02-07 17:25:23 [INFO] jollysnowman [/99.37.249.77:55061] logged in with entity id 194
+2011-02-07 17:25:54 [INFO] chimz [/70.112.177.246:51075] logged in with entity id 195
+2011-02-07 17:26:19 [INFO] <chimz> lol what happen
+2011-02-07 17:26:24 [INFO] <jollysnowman> i'm not sure
+2011-02-07 17:26:31 [INFO] <jollysnowman> it just died lol
+2011-02-07 17:26:32 [INFO] <chimz> my stufffff it is gone
+2011-02-07 17:27:42 [INFO] <jollysnowman> whatnow
+2011-02-07 17:27:55 [INFO] <chimz> all my diamond picaxe is gone
+2011-02-07 17:28:00 [INFO] <jollysnowman> wuut
+2011-02-07 17:28:17 [INFO] <chimz> i spawned back in my room with half health, no stuff
+2011-02-07 17:28:42 [INFO] <jollysnowman> wtf lame
+2011-02-07 17:28:46 [INFO] <jollysnowman> i'm not sure why it crashed
+2011-02-07 17:29:32 [INFO] <chimz> the pickaxe i put in this box is gone too
+2011-02-07 17:30:00 [INFO] <jollysnowman> was it all diamond?
+2011-02-07 17:30:09 [INFO] <chimz> one was, one was iron
+2011-02-07 17:31:55 [INFO] <chimz> hey brendan how do you mine the tree farms correctly
+2011-02-07 17:32:04 [INFO] <jollysnowman> just cut the wood
+2011-02-07 17:32:15 [INFO] <jollysnowman> and replant any saplings you ge
+2011-02-07 17:34:42 [INFO] <jollysnowman> anyway hw time
+2011-02-07 17:34:43 [INFO] <jollysnowman> later
+2011-02-07 17:34:43 [INFO] <chimz> trees hurt when they grow on you
+2011-02-07 17:34:48 [INFO] <jollysnowman> and yes they do lol
+2011-02-07 17:35:05 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-07 18:05:53 [INFO] chimz lost connection: disconnect.quitting
+2011-02-07 18:05:57 [INFO] chimz [/70.112.177.246:51229] logged in with entity id 31522
+2011-02-07 18:14:02 [INFO] deleryth [/66.199.105.126:49253] logged in with entity id 40979
+2011-02-07 18:14:06 [INFO] <chimz> heyyy
+2011-02-07 18:14:09 [INFO] <chimz> i need help
+2011-02-07 18:14:13 [INFO] <deleryth> with what?
+2011-02-07 18:14:34 [INFO] <chimz> got stuck in a mine on the wrong side of lava, and my pickaxe died
+2011-02-07 18:14:44 [INFO] <chimz> so i'm trying to dig my way out with a shovel
+2011-02-07 18:15:05 [INFO] <chimz> can you come down to the main house mine and see if you can find me?
+2011-02-07 18:15:12 [INFO] <chimz> if you've got time
+2011-02-07 18:15:18 [INFO] <deleryth> yeah one second i need to make some picks and stuff
+2011-02-07 18:19:09 [INFO] <deleryth> coming down the wwaterfall
+2011-02-07 18:19:28 [INFO] <chimz> i was in the regular mine, i think, but there's a conection now
+2011-02-07 18:19:48 [INFO] <chimz> watch out because there's lava a block below me
+2011-02-07 18:19:59 [INFO] <deleryth> i dont see yo uname even
+2011-02-07 18:20:10 [INFO] <chimz> i can see you
+2011-02-07 18:21:00 [INFO] <deleryth> ok i took the main stairwell
+2011-02-07 18:21:25 [INFO] <chimz> i think i'm on the left somewhere
+2011-02-07 18:21:36 [INFO] <chimz> can you see my name?
+2011-02-07 18:21:44 [INFO] <chimz> you're pretty close now
+2011-02-07 18:22:02 [INFO] <deleryth> i dont see where you dug, so im jsut gonna mine straight to you
+2011-02-07 18:23:05 [INFO] <chimz> hi
+2011-02-07 18:23:11 [INFO] <deleryth> lol you almost killed me
+2011-02-07 18:23:18 [INFO] <deleryth> have any food?
+2011-02-07 18:23:19 [INFO] <chimz> thanks
+2011-02-07 18:23:24 [INFO] <chimz> in my chest upstairs
+2011-02-07 18:24:27 [INFO] <chimz> gave you pork chop
+2011-02-07 18:24:35 [INFO] <deleryth> ty
+2011-02-07 18:41:19 [INFO] <chimz> weirdest thing: i can't dig or build over in this area
+2011-02-07 18:41:39 [INFO] <deleryth> you close to the spawn?
+2011-02-07 18:41:43 [INFO] <chimz> yeah
+2011-02-07 18:41:51 [INFO] <deleryth> yeah it wont let you
+2011-02-07 18:42:00 [INFO] <chimz> wanted to build a house because i spawned next to a creeper
+2011-02-07 18:42:09 [INFO] <chimz> that's weird
+2011-02-07 18:42:50 [INFO] <deleryth> if yo ucan light up that area really well with torches
+2011-02-07 18:49:03 [INFO] <chimz> can't even place torches near spawn
+2011-02-07 18:57:37 [INFO] <deleryth> i am good at mining coal and nothing else
+2011-02-07 18:57:45 [INFO] <chimz> diamonds would be nice
+2011-02-07 19:02:09 [INFO] jollysnowman [/99.37.249.77:55006] logged in with entity id 99264
+2011-02-07 19:02:14 [INFO] <deleryth> sup
+2011-02-07 19:02:17 [INFO] <jollysnowman> yo
+2011-02-07 19:02:22 [INFO] <jollysnowman> couldn't resist lol
+2011-02-07 19:08:14 [INFO] <jollysnowman> has the server held up ok?
+2011-02-07 19:08:49 [INFO] <deleryth> i may have found something that got fucked up, but it couldve been from before
+2011-02-07 19:09:07 [INFO] <chimz> the spawn point is weird, can't do anything near it
+2011-02-07 19:09:10 [INFO] <chimz> is that on purpose?
+2011-02-07 19:09:14 [INFO] <jollysnowman> i think that's how it is
+2011-02-07 19:09:16 [INFO] <deleryth> that was always the case
+2011-02-07 19:09:22 [INFO] <chimz> huh ok
+2011-02-07 19:09:23 [INFO] <jollysnowman> so you don't mess up the spawn
+2011-02-07 19:15:01 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 19:15:15 [INFO] /99.37.249.77:55001 lost connection
+2011-02-07 19:15:30 [INFO] /99.37.249.77:55005 lost connection
+2011-02-07 19:15:36 [INFO] /99.37.249.77:55567 lost connection
+2011-02-07 19:16:35 [INFO] Disconnecting /99.37.249.77:55006: Took too long to log in
+2011-02-07 19:17:15 [INFO] jollysnowman [/99.37.249.77:55607] logged in with entity id 116987
+2011-02-07 19:17:52 [INFO] Connected players: chimz, deleryth, jollysnowman
+2011-02-07 19:18:42 [INFO] jollysnowman lost connection: disconnect.timeout
+2011-02-07 19:18:51 [INFO] jollysnowman [/99.37.249.77:55374] logged in with entity id 118138
+2011-02-07 19:29:30 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 19:29:39 [INFO] jollysnowman [/99.37.249.77:55009] logged in with entity id 131090
+2011-02-07 19:31:49 [INFO] jollysnowman [/99.37.249.77:55063] logged in with entity id 140804
+2011-02-07 19:32:10 [INFO] <deleryth> lol i flooded my house
+2011-02-07 19:32:15 [INFO] <jollysnowman> hahahaha
+2011-02-07 19:32:25 [INFO] <jollysnowman> i'm gonna come take a look
+2011-02-07 19:32:36 [INFO] <deleryth> i think i fixed it
+2011-02-07 19:33:27 [INFO] <jollysnowman> haha i see it draining
+2011-02-07 19:34:11 [INFO] <jollysnowman> it actually looks cool downstairs
+2011-02-07 19:34:24 [INFO] <deleryth> i killed all my torches lol
+2011-02-07 19:34:38 [INFO] <jollysnowman> it's like an elevator
+2011-02-07 19:34:42 [INFO] <deleryth> yo ucan ride the waterfall the whole way down too
+2011-02-07 19:35:15 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 19:35:20 [INFO] jollysnowman [/99.37.249.77:55144] logged in with entity id 144366
+2011-02-07 19:36:07 [INFO] <jollysnowman> danimal do you have a house yet?
+2011-02-07 19:36:15 [INFO] <chimz> no i have a mine
+2011-02-07 19:36:22 [INFO] deleryth [/66.199.105.126:50180] logged in with entity id 144823
+2011-02-07 19:36:40 [INFO] <deleryth> this is gonna be sugarcane at the base when i am done
+2011-02-07 19:36:51 [INFO] <jollysnowman> nice
+2011-02-07 19:38:22 [INFO] <deleryth> shit be caseful outside i almsot got raped
+2011-02-07 19:38:28 [INFO] <deleryth> careful
+2011-02-07 19:40:09 [INFO] <chimz> found another big missing chunk
+2011-02-07 19:40:10 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 19:40:24 [INFO] jollysnowman [/99.37.249.77:55029] logged in with entity id 148799
+2011-02-07 19:51:20 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-07 19:51:45 [INFO] Unknown console command. Type "help" for help.
+2011-02-07 19:51:58 [INFO] [CONSOLE] "at 10pm or so I'm gonna reset the server so the memory clears"
+2011-02-07 19:52:17 [INFO] <deleryth> ok
+2011-02-07 19:52:20 [INFO] <chimz> ok
+2011-02-07 19:55:25 [INFO] <chimz> i spawned on a tree wtf
+2011-02-07 19:59:42 [INFO] <chimz> can you see all the stuff on the stairs in the main room?
+2011-02-07 19:59:56 [INFO] <chimz> it's all my junk but i can't pick it up
+2011-02-07 20:00:24 [INFO] chimz lost connection: disconnect.quitting
+2011-02-07 20:00:27 [INFO] chimz [/70.112.177.246:51498] logged in with entity id 177802
+2011-02-07 20:02:55 [INFO] chimz lost connection: disconnect.quitting
+2011-02-07 20:03:14 [INFO] chimz [/70.112.177.246:51508] logged in with entity id 181700
+2011-02-07 20:40:37 [INFO] <deleryth> later
+2011-02-07 20:40:41 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-07 20:55:16 [INFO] chimz lost connection: disconnect.quitting
+2011-02-07 21:51:56 [INFO] bccbrendan [/99.37.249.77:55017] logged in with entity id 222144
+2011-02-07 21:52:12 [INFO] <bccbrendan> anybody home?
+2011-02-07 21:55:30 [INFO] deleryth [/66.199.105.126:49193] logged in with entity id 224704
+2011-02-07 21:55:36 [INFO] <bccbrendan> hi thomas!
+2011-02-07 21:55:55 [INFO] <deleryth> HI BRENDEN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2011-02-07 21:56:48 [INFO] <bccbrendan> mob farm almost back to normal
+2011-02-07 21:57:00 [INFO] <deleryth> oh nice need help?
+2011-02-07 21:57:06 [INFO] <bccbrendan> sure
+2011-02-07 21:57:13 [INFO] <bccbrendan> its safe
+2011-02-07 21:57:21 [INFO] <bccbrendan> bring lava?
+2011-02-07 21:57:44 [INFO] <deleryth> ive got a bucket in my house, that enough?
+2011-02-07 21:57:57 [INFO] <bccbrendan> we need two...
+2011-02-07 21:58:06 [INFO] <bccbrendan> but there's a bucket in estebans room
+2011-02-07 21:58:14 [INFO] <bccbrendan> i just put it there so we can borrow it for now
+2011-02-07 22:01:57 [INFO] <bccbrendan> also do you have glass?
+2011-02-07 22:02:15 [INFO] <deleryth> upstairs i do, but im here lol
+2011-02-07 22:02:37 [INFO] <bccbrendan> ok so maybe look up on line the canal system, i'm making the lava trap and collection
+2011-02-07 22:03:21 [INFO] <bccbrendan> got an iron pick? if so, gold for you here
+2011-02-07 22:03:52 [INFO] <deleryth> actually ive got glass
+2011-02-07 22:04:10 [INFO] <bccbrendan> cool, we need it along the sides in here
+2011-02-07 22:04:25 [INFO] <deleryth> down the line where the first 4 are?
+2011-02-07 22:04:39 [INFO] <bccbrendan> no we've shifted over
+2011-02-07 22:04:43 [INFO] <bccbrendan> where im standing
+2011-02-07 22:05:40 [INFO] <bccbrendan> along that line of cobblestone
+2011-02-07 22:05:51 [INFO] <bccbrendan> brb
+2011-02-07 22:06:46 [INFO] <deleryth> lava at the back 2?
+2011-02-07 22:06:52 [INFO] <bccbrendan> wait
+2011-02-07 22:07:00 [INFO] <deleryth> ill let you do it
+2011-02-07 22:07:05 [INFO] <bccbrendan> some glass where i'm putting cobblestone?
+2011-02-07 22:07:55 [INFO] <bccbrendan> you got an iron pick?
+2011-02-07 22:08:10 [INFO] <deleryth> no i jsut made a stone one to come down here cause i had nothing
+2011-02-07 22:08:18 [INFO] <bccbrendan> ah nevermind, gold is useless anyway
+2011-02-07 22:08:23 [INFO] <bccbrendan> lemme at that lava
+2011-02-07 22:09:11 [INFO] <deleryth> toss me the buckets so i can help ith the water when we come to it
+2011-02-07 22:09:55 [INFO] <bccbrendan> alright lets clear the top first
+2011-02-07 22:11:28 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-07 22:11:37 [INFO] bccbrendan [/99.37.249.77:55611] logged in with entity id 239977
+2011-02-07 22:12:12 [INFO] <bccbrendan> oooh coal
+2011-02-07 22:12:46 [INFO] <bccbrendan> do you have the plan?
+2011-02-07 22:13:07 [INFO] <bccbrendan> if you google 'minecraft mob farm' you'll find it
+2011-02-07 22:21:58 [INFO] <bccbrendan> i think the canals running top/bottom on the right side are off by one
+2011-02-07 22:24:03 [INFO] <deleryth> we have a creeper up top
+2011-02-07 22:24:34 [INFO] <bccbrendan> ill get em
+2011-02-07 22:25:22 [INFO] <bccbrendan> all clear
+2011-02-07 22:29:10 [INFO] bccbrendan [/99.37.249.77:55828] logged in with entity id 254568
+2011-02-07 22:29:13 [INFO] <deleryth> that whole side is fixed
+2011-02-07 22:29:15 [INFO] <bccbrendan> k im back
+2011-02-07 22:29:27 [INFO] <bccbrendan> the center drain?
+2011-02-07 22:29:31 [INFO] <deleryth> and the water dosent overlap the edge anymore
+2011-02-07 22:29:44 [INFO] <bccbrendan> awesome!
+2011-02-07 22:29:45 [INFO] <deleryth> i moved a few bricks to make it work
+2011-02-07 22:31:25 [INFO] <bccbrendan> k then lets finish flooding!
+2011-02-07 22:31:30 [INFO] <deleryth> ok
+2011-02-07 22:31:45 [INFO] <deleryth> it should be mostly done
+2011-02-07 22:32:14 [INFO] <bccbrendan> lets also make sure its flowing straight
+2011-02-07 22:33:39 [INFO] <bccbrendan> must be perfectly laminar
+2011-02-07 22:35:40 [INFO] <bccbrendan> alright looks good to me
+2011-02-07 22:35:54 [INFO] <deleryth> same
+2011-02-07 22:36:03 [INFO] <bccbrendan> k so torches?
+2011-02-07 22:36:16 [INFO] <bccbrendan> start at the back
+2011-02-07 22:38:48 [INFO] <bccbrendan> spooky
+2011-02-07 22:39:13 [INFO] <bccbrendan> lets check the loot
+2011-02-07 22:40:58 [INFO] <bccbrendan> hooray!!! riches!!
+2011-02-07 22:41:34 [INFO] <deleryth> let it get ot the bottom i wanna see how it stacks up
+2011-02-07 22:41:34 [INFO] <bccbrendan> hahaha this is fucking aweseom
+2011-02-07 22:42:03 [INFO] <bccbrendan> where the spiders at?
+2011-02-07 22:42:03 [INFO] <deleryth> lol one of the ladders
+2011-02-07 22:42:31 [INFO] <deleryth> whatever we have a spider spawner
+2011-02-07 22:43:10 [INFO] jollysnowman [/99.37.249.77:55023] logged in with entity id 266558
+2011-02-07 22:43:16 [INFO] <jollysnowman> sup nerd bitches
+2011-02-07 22:43:56 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 22:43:57 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-07 22:44:12 [INFO] bccbrendan [/99.37.249.77:55577] logged in with entity id 267598
+2011-02-07 22:44:30 [INFO] jollysnowman [/99.37.249.77:55582] logged in with entity id 267656
+2011-02-07 22:44:30 [INFO] <bccbrendan> did creepers get back here?
+2011-02-07 22:44:39 [INFO] <deleryth> no
+2011-02-07 22:44:54 [INFO] <bccbrendan> they did in mine but then i got kicked
+2011-02-07 22:45:01 [INFO] <bccbrendan> that was scary
+2011-02-07 22:45:46 [INFO] <jollysnowman> are you guys still in the mob farm
+2011-02-07 22:46:17 [INFO] <jollysnowman> holy shit have you seen the new tree farm
+2011-02-07 22:46:21 [INFO] <jollysnowman> it's friggin packed
+2011-02-07 22:46:36 [INFO] <deleryth> half the time i walk through there i have to cut my way through lol
+2011-02-07 22:47:56 [INFO] <jollysnowman> oh so i found a cheap hard drive on craigslist
+2011-02-07 22:48:04 [INFO] <jollysnowman> all that's left is a power supply and cpu fan
+2011-02-07 22:49:41 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-07 22:50:00 [INFO] <bccbrendan> ah I got to go
+2011-02-07 22:50:02 [INFO] jollysnowman [/99.37.249.77:55001] logged in with entity id 272237
+2011-02-07 22:50:17 [INFO] <jollysnowman> ok see  ya
+2011-02-07 22:50:38 [INFO] <deleryth> did you die?
+2011-02-07 22:50:46 [INFO] <jollysnowman> me? no
+2011-02-07 22:50:52 [INFO] <bccbrendan> apparently
+2011-02-07 22:51:06 [INFO] <deleryth> get yo r stuff
+2011-02-07 22:51:50 [INFO] <bccbrendan> alright good night guys
+2011-02-07 22:51:53 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-07 22:51:55 [INFO] <deleryth> later
+2011-02-07 22:52:27 [INFO] <jollysnowman> did i miss anythign other than the mob farm
+2011-02-07 22:53:01 [INFO] <deleryth> not that i know of
+2011-02-07 22:53:10 [INFO] <deleryth> you have sugar cane by cahnce?
+2011-02-07 22:53:26 [INFO] <jollysnowman> yeah but only 4
+2011-02-07 22:53:30 [INFO] <jollysnowman> but that should be enough
+2011-02-07 22:53:58 [INFO] <jollysnowman> where are you
+2011-02-07 22:54:06 [INFO] <deleryth> tree farm
+2011-02-07 22:54:52 [INFO] <jollysnowman> which one
+2011-02-07 22:54:58 [INFO] <jollysnowman> nvm
+2011-02-07 22:55:06 [INFO] <deleryth> we have two?
+2011-02-07 22:55:09 [INFO] <jollysnowman> lol yeah
+2011-02-07 22:55:11 [INFO] <jollysnowman> old wheat farm
+2011-02-07 22:55:35 [INFO] <deleryth> thanks
+2011-02-07 22:55:37 [INFO] <jollysnowman> np
+2011-02-07 22:55:43 [INFO] <deleryth> we need more wheat
+2011-02-07 22:55:57 [INFO] <jollysnowman> the roof isn't enough?
+2011-02-07 23:00:14 [INFO] <jollysnowman> actually i have like 100 more sugar cane if you want it
+2011-02-07 23:05:28 [INFO] <deleryth> sure
+2011-02-07 23:06:56 [INFO] <jollysnowman> where are you
+2011-02-07 23:07:05 [INFO] <deleryth> top of first house
+2011-02-07 23:07:32 [INFO] <jollysnowman> what's going on here
+2011-02-07 23:07:47 [INFO] <deleryth> more wheat
+2011-02-07 23:08:25 [INFO] <jollysnowman> have you seen brendan's tree fort
+2011-02-07 23:08:33 [INFO] <deleryth> no
+2011-02-07 23:08:38 [INFO] <jollysnowman> it's pretty cool
+2011-02-07 23:08:42 [INFO] <jollysnowman> looks neat at night
+2011-02-07 23:13:55 [INFO] <deleryth> i think im gonna go back to my house to drop off stuff then you wanna show me where to go?
+2011-02-07 23:14:06 [INFO] <jollysnowman> ok
+2011-02-07 23:14:18 [INFO] <jollysnowman> actually wait till day
+2011-02-07 23:14:25 [INFO] <jollysnowman> i can't get out of this mine at night
+2011-02-07 23:19:41 [INFO] <jollysnowman> where are you?
+2011-02-07 23:20:06 [INFO] <deleryth> coming outta the mine
+2011-02-07 23:21:22 [INFO] <jollysnowman> finally got some stairs lol
+2011-02-07 23:21:35 [INFO] <deleryth> ok lets go
+2011-02-07 23:21:56 [INFO] <jollysnowman> after this come chekc out my mine
+2011-02-07 23:22:27 [INFO] <jollysnowman> wtf
+2011-02-07 23:22:33 [INFO] <deleryth> holy shit
+2011-02-07 23:22:59 [INFO] <jollysnowman> i think it's almost as high as mine
+2011-02-07 23:23:28 [INFO] <jollysnowman> i'm hoping he connects all the trees
+2011-02-07 23:23:38 [INFO] <deleryth> yea
+2011-02-07 23:23:49 [INFO] <jollysnowman> alright come check out my mine
+2011-02-07 23:24:35 [INFO] <jollysnowman> tadaaa
+2011-02-07 23:24:49 [INFO] <jollysnowman> i just started so not much
+2011-02-07 23:24:56 [INFO] <jollysnowman> but i think i dug below the spawn point
+2011-02-07 23:25:02 [INFO] <jollysnowman> i found all this coal and iron but i can't mine it
+2011-02-07 23:25:07 [INFO] <deleryth> where is that thing?
+2011-02-07 23:25:13 [INFO] <jollysnowman> what
+2011-02-07 23:25:21 [INFO] <deleryth> the spider spawner
+2011-02-07 23:25:24 [INFO] <jollysnowman> oh
+2011-02-07 23:26:07 [INFO] <jollysnowman> weird huh
+2011-02-07 23:26:13 [INFO] <deleryth> yea
+2011-02-07 23:26:25 [INFO] <deleryth> wanna make a river and kill them?
+2011-02-07 23:26:29 [INFO] <jollysnowman> hahahahhaa
+2011-02-07 23:26:45 [INFO] <jollysnowman> maybe tomorrow i have to go soon
+2011-02-07 23:27:34 [INFO] <deleryth> eyah i need to go soon as well
+2011-02-07 23:29:44 [INFO] <deleryth> well, night
+2011-02-07 23:29:47 [INFO] <jollysnowman> later
+2011-02-07 23:29:53 [INFO] deleryth lost connection: disconnect.quitting
+2011-02-08 00:19:23 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-08 00:20:18 [INFO] CONSOLE: Stopping the server..
+2011-02-08 00:20:18 [INFO] Stopping server
+2011-02-08 00:20:18 [INFO] Saving chunks
+2011-02-08 09:45:51 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-08 09:45:51 [INFO] Loading properties
+2011-02-08 09:45:51 [INFO] Starting Minecraft server on *:25565
+2011-02-08 09:45:51 [INFO] Preparing level "world"
+2011-02-08 09:45:51 [INFO] Preparing start region
+2011-02-08 09:45:52 [INFO] Preparing spawn area: 8%
+2011-02-08 09:45:53 [INFO] Preparing spawn area: 16%
+2011-02-08 09:45:54 [INFO] Preparing spawn area: 24%
+2011-02-08 09:45:55 [INFO] Preparing spawn area: 36%
+2011-02-08 09:45:56 [INFO] Preparing spawn area: 48%
+2011-02-08 09:45:57 [INFO] Preparing spawn area: 57%
+2011-02-08 09:45:58 [INFO] Preparing spawn area: 69%
+2011-02-08 09:45:59 [INFO] Preparing spawn area: 77%
+2011-02-08 09:46:00 [INFO] Preparing spawn area: 89%
+2011-02-08 09:46:01 [INFO] Done! For help, type "help" or "?"
+2011-02-08 09:46:05 [INFO] jollysnowman [/99.37.249.77:55054] logged in with entity id 160
+2011-02-08 10:05:39 [INFO] jollysnowman lost connection: disconnect.genericReason
+2011-02-08 10:05:52 [INFO] jollysnowman [/99.37.249.77:55001] logged in with entity id 23671
+2011-02-08 10:05:56 [INFO] Connected players: jollysnowman
+2011-02-08 11:45:53 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-08 11:46:08 [INFO] CONSOLE: Stopping the server..
+2011-02-08 11:46:08 [INFO] Stopping server
+2011-02-08 11:46:08 [INFO] Saving chunks
