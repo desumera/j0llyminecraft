@@ -2792,3 +2792,42 @@
 2011-02-13 14:40:29 [INFO] CONSOLE: Stopping the server..
 2011-02-13 14:40:29 [INFO] Stopping server
 2011-02-13 14:40:29 [INFO] Saving chunks
+2011-02-13 18:20:37 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-13 18:20:37 [INFO] Loading properties
+2011-02-13 18:20:37 [INFO] Starting Minecraft server on *:25565
+2011-02-13 18:20:38 [INFO] Preparing level "world"
+2011-02-13 18:20:38 [INFO] Preparing start region
+2011-02-13 18:20:39 [INFO] Preparing spawn area: 3%
+2011-02-13 18:20:40 [INFO] Preparing spawn area: 12%
+2011-02-13 18:20:41 [INFO] Preparing spawn area: 32%
+2011-02-13 18:20:42 [INFO] Preparing spawn area: 48%
+2011-02-13 18:20:43 [INFO] Preparing spawn area: 69%
+2011-02-13 18:20:44 [INFO] Preparing spawn area: 89%
+2011-02-13 18:20:44 [INFO] Done! For help, type "help" or "?"
+2011-02-13 18:20:51 [INFO] jollysnowman [/192.168.1.3:49211] logged in with entity id 189
+2011-02-13 18:45:12 [INFO] jollysnowman issued server command: give jollysnowman 3 64
+2011-02-13 18:45:12 [INFO] jollysnowman: Giving jollysnowman some 3
+2011-02-13 18:45:23 [INFO] jollysnowman issued server command: give jollysnowman 4 64
+2011-02-13 18:45:23 [INFO] jollysnowman: Giving jollysnowman some 4
+2011-02-13 18:47:58 [INFO] jollysnowman issued server command: give jollysnowman 47 10
+2011-02-13 18:47:58 [INFO] jollysnowman: Giving jollysnowman some 47
+2011-02-13 18:49:16 [INFO] jollysnowman issued server command: give jollysnowman 47 2
+2011-02-13 18:49:16 [INFO] jollysnowman: Giving jollysnowman some 47
+2011-02-13 18:50:42 [INFO] jollysnowman issued server command: give jollysnowman 352 20
+2011-02-13 18:50:42 [INFO] jollysnowman: Giving jollysnowman some 352
+2011-02-13 19:08:37 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-13 22:52:17 [INFO] jollysnowman [/192.168.1.3:49587] logged in with entity id 45014
+2011-02-13 22:55:20 [INFO] jollysnowman issued server command: give jollysnowman 1 60
+2011-02-13 22:55:20 [INFO] jollysnowman: Giving jollysnowman some 1
+2011-02-13 23:00:28 [INFO] jollysnowman issued server command: give jollysnowman 20 50
+2011-02-13 23:00:28 [INFO] jollysnowman: Giving jollysnowman some 20
+2011-02-13 23:05:19 [INFO] jollysnowman issued server command: give jollysnowman 45 64
+2011-02-13 23:05:19 [INFO] jollysnowman: Giving jollysnowman some 45
+2011-02-13 23:10:11 [INFO] jollysnowman issued server command: give jollysnowman 262 30
+2011-02-13 23:10:11 [INFO] jollysnowman: Giving jollysnowman some 262
+2011-02-13 23:26:29 [INFO] jollysnowman issued server command: give jollysnowman 47 64
+2011-02-13 23:26:29 [INFO] jollysnowman: Giving jollysnowman some 47
+2011-02-13 23:42:53 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-13 23:43:15 [INFO] CONSOLE: Stopping the server..
+2011-02-13 23:43:15 [INFO] Stopping server
+2011-02-13 23:43:15 [INFO] Saving chunks
