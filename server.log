@@ -2831,3 +2831,230 @@
 2011-02-13 23:43:15 [INFO] CONSOLE: Stopping the server..
 2011-02-13 23:43:15 [INFO] Stopping server
 2011-02-13 23:43:15 [INFO] Saving chunks
+2011-02-14 10:19:54 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-14 10:19:54 [INFO] Loading properties
+2011-02-14 10:19:54 [INFO] Starting Minecraft server on *:25565
+2011-02-14 10:19:54 [INFO] Preparing level "world"
+2011-02-14 10:19:54 [INFO] Preparing start region
+2011-02-14 10:19:56 [INFO] Preparing spawn area: 4%
+2011-02-14 10:19:57 [INFO] Preparing spawn area: 8%
+2011-02-14 10:19:58 [INFO] Preparing spawn area: 16%
+2011-02-14 10:19:59 [INFO] Preparing spawn area: 24%
+2011-02-14 10:20:00 [INFO] Preparing spawn area: 32%
+2011-02-14 10:20:01 [INFO] Preparing spawn area: 40%
+2011-02-14 10:20:02 [INFO] Preparing spawn area: 48%
+2011-02-14 10:20:03 [INFO] Preparing spawn area: 56%
+2011-02-14 10:20:04 [INFO] Preparing spawn area: 69%
+2011-02-14 10:20:05 [INFO] Preparing spawn area: 77%
+2011-02-14 10:20:06 [INFO] Preparing spawn area: 89%
+2011-02-14 10:20:06 [INFO] Done! For help, type "help" or "?"
+2011-02-14 10:20:18 [INFO] jollysnowman [/99.184.80.207:55005] logged in with entity id 226
+2011-02-14 10:29:37 [INFO] jollysnowman issued server command: give jollysnowman 262 40
+2011-02-14 10:29:37 [INFO] jollysnowman: Giving jollysnowman some 262
+2011-02-14 10:45:19 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-14 10:45:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 10:45:30 [INFO] CONSOLE: Stopping the server..
+2011-02-14 10:45:30 [INFO] Stopping server
+2011-02-14 10:45:30 [INFO] Saving chunks
+2011-02-14 14:52:07 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-14 14:52:07 [INFO] Loading properties
+2011-02-14 14:52:08 [INFO] Starting Minecraft server on *:25565
+2011-02-14 14:52:08 [INFO] Preparing level "world"
+2011-02-14 14:52:08 [INFO] Preparing start region
+2011-02-14 14:52:09 [INFO] Preparing spawn area: 3%
+2011-02-14 14:52:10 [INFO] Preparing spawn area: 8%
+2011-02-14 14:52:11 [INFO] Preparing spawn area: 16%
+2011-02-14 14:52:12 [INFO] Preparing spawn area: 20%
+2011-02-14 14:52:13 [INFO] Preparing spawn area: 28%
+2011-02-14 14:52:14 [INFO] Preparing spawn area: 32%
+2011-02-14 14:52:15 [INFO] Preparing spawn area: 40%
+2011-02-14 14:52:16 [INFO] Preparing spawn area: 48%
+2011-02-14 14:52:17 [INFO] Preparing spawn area: 52%
+2011-02-14 14:52:18 [INFO] Preparing spawn area: 61%
+2011-02-14 14:52:19 [INFO] Preparing spawn area: 69%
+2011-02-14 14:52:20 [INFO] Preparing spawn area: 73%
+2011-02-14 14:52:21 [INFO] Preparing spawn area: 81%
+2011-02-14 14:52:22 [INFO] Preparing spawn area: 89%
+2011-02-14 14:52:23 [INFO] Preparing spawn area: 97%
+2011-02-14 14:52:23 [INFO] Done! For help, type "help" or "?"
+2011-02-14 14:52:27 [INFO] jollysnowman [/99.184.80.207:55041] logged in with entity id 63
+2011-02-14 14:52:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 14:54:11 [INFO] bccbrendan [/99.184.80.207:55046] logged in with entity id 2273
+2011-02-14 14:54:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 15:01:23 [INFO] jollysnowman issued server command: give bccbrendan 66 64
+2011-02-14 15:01:23 [INFO] jollysnowman: Giving bccbrendan some 66
+2011-02-14 15:03:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 15:22:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 16:17:12 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-14 16:17:39 [INFO] jollysnowman [/99.184.80.207:55244] logged in with entity id 121653
+2011-02-14 16:22:22 [INFO] <bccbrendan> omg check this ou!
+2011-02-14 16:22:37 [INFO] <jollysnowman> onmy way
+2011-02-14 16:22:56 [INFO] <jollysnowman> i lost you
+2011-02-14 16:23:03 [INFO] <bccbrendan> up on the hilltop
+2011-02-14 16:26:25 [INFO] <jollysnowman> i headed home
+2011-02-14 16:26:34 [INFO] <jollysnowman> let's check back tomorrow. i found a cool cave
+2011-02-14 16:26:46 [INFO] <bccbrendan> ima stay here and build a fort
+2011-02-14 16:39:38 [INFO] jollysnowman issued server command: give bccbrendan 262 30
+2011-02-14 16:39:38 [INFO] jollysnowman: Giving bccbrendan some 262
+2011-02-14 16:40:04 [INFO] jollysnowman issued server command: give jollysnowman 262 30
+2011-02-14 16:40:04 [INFO] jollysnowman: Giving jollysnowman some 262
+2011-02-14 16:40:24 [INFO] jollysnowman issued server command: give bccbrendan 333 1
+2011-02-14 16:40:24 [INFO] jollysnowman: Giving bccbrendan some 333
+2011-02-14 16:40:46 [INFO] jollysnowman issued server command: give bccbrendan 333 1
+2011-02-14 16:40:46 [INFO] jollysnowman: Giving bccbrendan some 333
+2011-02-14 17:02:19 [INFO] jollysnowman issued server command: give jollysnowman 320 60
+2011-02-14 17:02:19 [INFO] jollysnowman: Giving jollysnowman some 320
+2011-02-14 17:03:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 17:34:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 17:39:16 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-14 17:39:20 [INFO] jollysnowman [/99.184.80.207:55011] logged in with entity id 267584
+2011-02-14 17:59:26 [INFO] jollysnowman issued server command: give jollysnomwan 278 2
+2011-02-14 17:59:33 [INFO] jollysnowman issued server command: give jollysnowman 278 2
+2011-02-14 17:59:33 [INFO] jollysnowman: Giving jollysnowman some 278
+2011-02-14 18:00:10 [INFO] jollysnowman issued server command: give jollysnowman 50 64
+2011-02-14 18:00:10 [INFO] jollysnowman: Giving jollysnowman some 50
+2011-02-14 18:21:04 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-14 18:21:08 [INFO] jollysnowman [/99.184.80.207:55010] logged in with entity id 329372
+2011-02-14 18:24:46 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-14 18:24:49 [INFO] jollysnowman [/99.184.80.207:55001] logged in with entity id 333471
+2011-02-14 18:36:11 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 18:36:14 [INFO] bccbrendan [/99.184.80.207:55553] logged in with entity id 341930
+2011-02-14 18:39:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 18:39:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 18:40:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 18:40:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 18:40:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 18:40:49 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 18:40:59 [INFO] bccbrendan [/99.184.80.207:55007] logged in with entity id 344269
+2011-02-14 18:41:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 18:54:39 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 18:58:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 19:02:31 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-14 19:07:31 [INFO] bccbrendan [/99.184.80.207:55012] logged in with entity id 367224
+2011-02-14 19:54:12 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 19:54:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 19:54:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-02-14 21:13:36 [INFO] bccbrendan [/99.184.80.207:55024] logged in with entity id 401171
+2011-02-14 21:17:41 [INFO] jollysnowman [/99.184.80.207:55434] logged in with entity id 403374
+2011-02-14 21:17:45 [INFO] jollysnowman issued server command: list
+2011-02-14 21:17:45 [INFO] <bccbrendan> lol
+2011-02-14 21:17:49 [INFO] <jollysnowman> hahahahha
+2011-02-14 21:26:05 [INFO] <jollysnowman> where are you?
+2011-02-14 21:26:11 [INFO] <bccbrendan> by the fire
+2011-02-14 21:26:21 [INFO] <bccbrendan> other side of mountain
+2011-02-14 21:26:24 [INFO] <jollysnowman> lol almost walked off a cliff
+2011-02-14 21:27:38 [INFO] <bccbrendan> i think that's it
+2011-02-14 21:27:43 [INFO] <jollysnowman> you seriously cleaned all of this?
+2011-02-14 21:27:48 [INFO] <bccbrendan> lol
+2011-02-14 21:27:52 [INFO] <jollysnowman> wtf how
+2011-02-14 21:27:52 [INFO] <bccbrendan> didnt take that long
+2011-02-14 21:29:34 [INFO] <jollysnowman> ambush!!!
+2011-02-14 21:29:39 [INFO] <bccbrendan> oh yeah and the house may have gotten blown up'
+2011-02-14 21:29:40 [INFO] <bccbrendan> lol
+2011-02-14 21:29:44 [INFO] <jollysnowman> hahahhaha
+2011-02-14 21:29:49 [INFO] <jollysnowman> i saw the wall was differnee
+2011-02-14 21:29:52 [INFO] <jollysnowman> different
+2011-02-14 21:30:18 [INFO] <jollysnowman> wait is this some of my stuff on the rooft/
+2011-02-14 21:30:27 [INFO] <bccbrendan> dont think so..
+2011-02-14 21:30:30 [INFO] <jollysnowman> ohok
+2011-02-14 21:30:32 [INFO] <bccbrendan> is it?
+2011-02-14 21:30:38 [INFO] <jollysnowman> did you have a clock?
+2011-02-14 21:30:43 [INFO] <bccbrendan> yeah
+2011-02-14 21:32:03 [INFO] <bccbrendan> plenty of wood in the chest now...
+2011-02-14 21:32:18 [INFO] <jollysnowman> haha
+2011-02-14 21:32:25 [INFO] <jollysnowman> do you have any coal
+2011-02-14 21:32:42 [INFO] <bccbrendan> yeah i put half in the chest
+2011-02-14 21:33:23 [INFO] <jollysnowman> smoothw
+2011-02-14 21:33:26 [INFO] <bccbrendan> lol
+2011-02-14 21:35:36 [INFO] <jollysnowman> we need a tv
+2011-02-14 21:35:46 [INFO] <bccbrendan> lets get some sand wnhen the sun rises
+2011-02-14 21:35:52 [INFO] <jollysnowman> yeah
+2011-02-14 21:37:06 [INFO] <jollysnowman> SPIDER
+2011-02-14 21:37:12 [INFO] <jollysnowman> ON THE ROOF
+2011-02-14 21:37:19 [INFO] <bccbrendan> gawdammit
+2011-02-14 21:37:46 [INFO] <jollysnowman> HOW DID IT GET THEREEE
+2011-02-14 21:38:06 [INFO] <bccbrendan> dunno but it knocked me right into creepers
+2011-02-14 21:39:26 [INFO] <bccbrendan> hahahaahha
+2011-02-14 21:39:36 [INFO] <jollysnowman> gdi
+2011-02-14 21:40:55 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 21:41:30 [INFO] bccbrendan [/99.184.80.207:55008] logged in with entity id 435332
+2011-02-14 21:41:36 [INFO] <jollysnowman> creepers everywhre
+2011-02-14 21:41:47 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 21:43:40 [INFO] bccbrendan [/99.184.80.207:55002] logged in with entity id 437956
+2011-02-14 21:43:46 [INFO] <bccbrendan> sry phonecall
+2011-02-14 21:43:48 [INFO] <bccbrendan> u ok?
+2011-02-14 21:44:01 [INFO] <jollysnowman> yeah getting sand
+2011-02-14 21:44:25 [INFO] <bccbrendan> i fixed the roof
+2011-02-14 21:47:13 [INFO] <jollysnowman> makin glass
+2011-02-14 21:49:14 [INFO] jollysnowman issued server command: ?
+2011-02-14 21:56:01 [INFO] <jollysnowman> oh did you already glass it up?
+2011-02-14 21:56:03 [INFO] <bccbrendan> lol creeper
+2011-02-14 21:56:09 [INFO] <bccbrendan> yeah just put it in
+2011-02-14 21:57:28 [INFO] <jollysnowman> should we make a rail to the treehouse
+2011-02-14 21:57:38 [INFO] <bccbrendan> soooooo faaaar
+2011-02-14 21:57:49 [INFO] <jollysnowman> or mayb a paved road lol
+2011-02-14 21:57:50 [INFO] <bccbrendan> explore caves?
+2011-02-14 21:57:56 [INFO] <jollysnowman> yeah let's do that
+2011-02-14 21:58:12 [INFO] <bccbrendan> k one sec
+2011-02-14 21:59:01 [INFO] <bccbrendan> lemme get rid of some crap
+2011-02-14 21:59:03 [INFO] <jollysnowman> bring your clock
+2011-02-14 21:59:46 [INFO] <bccbrendan> k im ready
+2011-02-14 22:01:27 [INFO] <bccbrendan> hmm where else
+2011-02-14 22:01:34 [INFO] <jollysnowman> here
+2011-02-14 22:01:38 [INFO] <jollysnowman> down
+2011-02-14 22:02:30 [INFO] <bccbrendan> lol i think we'll have half the caves we though we had
+2011-02-14 22:02:37 [INFO] <jollysnowman> hahaha
+2011-02-14 22:02:53 [INFO] <bccbrendan> we can get this coal tho
+2011-02-14 22:04:00 [INFO] <bccbrendan> anywher else?
+2011-02-14 22:04:31 [INFO] <bccbrendan> we should make a pool here
+2011-02-14 22:04:36 [INFO] <jollysnowman> we should put a sign
+2011-02-14 22:04:38 [INFO] <jollysnowman> where the lava was
+2011-02-14 22:04:44 [INFO] <bccbrendan> lol
+2011-02-14 22:04:59 [INFO] <bccbrendan> easy way to make stairs
+2011-02-14 22:05:03 [INFO] <jollysnowman> hahaha
+2011-02-14 22:05:22 [INFO] <jollysnowman> waterfall
+2011-02-14 22:05:38 [INFO] <jollysnowman> i meant let's go to it
+2011-02-14 22:05:39 [INFO] <jollysnowman> ass
+2011-02-14 22:05:40 [INFO] <jollysnowman> hahaha
+2011-02-14 22:05:50 [INFO] <bccbrendan> o. ok
+2011-02-14 22:07:45 [INFO] <bccbrendan> night time :(
+2011-02-14 22:07:54 [INFO] <jollysnowman> thenhurry
+2011-02-14 22:08:09 [INFO] <bccbrendan> yeah that doesnt go anywyare
+2011-02-14 22:08:27 [INFO] <bccbrendan> lol bai
+2011-02-14 22:08:30 [INFO] <jollysnowman> damn
+2011-02-14 22:09:02 [INFO] <jollysnowman> behind
+2011-02-14 22:09:27 [INFO] <bccbrendan> omg u ok
+2011-02-14 22:10:47 [INFO] <jollysnowman> you back?
+2011-02-14 22:11:15 [INFO] <bccbrendan> *huff *puff
+2011-02-14 22:11:21 [INFO] <bccbrendan> 1.5 hears
+2011-02-14 22:11:23 [INFO] <jollysnowman> that was exciting hahaha
+2011-02-14 22:11:31 [INFO] <bccbrendan> lol tanks
+2011-02-14 22:11:38 [INFO] <jollysnowman> you didn'tget it
+2011-02-14 22:12:11 [INFO] <bccbrendan> we made a nice trail
+2011-02-14 22:12:20 [INFO] <jollysnowman> lol
+2011-02-14 22:13:03 [INFO] <bccbrendan> welp. start a mine?
+2011-02-14 22:13:07 [INFO] <jollysnowman> hahaha
+2011-02-14 22:13:14 [INFO] <jollysnowman> have to be deep though since we're so high
+2011-02-14 22:13:31 [INFO] <bccbrendan> yeah this isn't the best place
+2011-02-14 22:13:49 [INFO] <bccbrendan> actually i think im' gonna call it a night
+2011-02-14 22:14:09 [INFO] <jollysnowman> mk
+2011-02-14 22:14:13 [INFO] <bccbrendan> c ya
+2011-02-14 22:14:14 [INFO] <jollysnowman> i should too
+2011-02-14 22:14:15 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-14 22:14:22 [INFO] jollysnowman issued server command: stop
+2011-02-14 22:14:22 [INFO] jollysnowman: Stopping the server..
+2011-02-14 22:14:22 [INFO] Stopping server
+2011-02-14 22:14:22 [INFO] Saving chunks
+2011-02-14 22:14:39 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-14 22:14:39 [INFO] Loading properties
+2011-02-14 22:14:39 [INFO] Starting Minecraft server on *:25565
+2011-02-14 22:14:39 [INFO] Preparing level "world"
+2011-02-14 22:14:39 [INFO] Preparing start region
+2011-02-14 22:14:40 [INFO] Preparing spawn area: 16%
+2011-02-14 22:14:41 [INFO] Preparing spawn area: 36%
+2011-02-14 22:14:42 [INFO] Preparing spawn area: 65%
+2011-02-14 22:14:43 [INFO] Done! For help, type "help" or "?"
+2011-02-15 03:49:05 [INFO] Connected players: 
+2011-02-15 03:49:07 [INFO] CONSOLE: Stopping the server..
+2011-02-15 03:49:07 [INFO] Stopping server
+2011-02-15 03:49:07 [INFO] Saving chunks
