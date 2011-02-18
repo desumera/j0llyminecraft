@@ -3712,3 +3712,38 @@
 2011-02-17 20:23:12 [INFO] jollysnowman: Stopping the server..
 2011-02-17 20:23:12 [INFO] Stopping server
 2011-02-17 20:23:12 [INFO] Saving chunks
+2011-02-17 21:06:41 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-17 21:06:41 [INFO] Loading properties
+2011-02-17 21:06:41 [INFO] Starting Minecraft server on *:25565
+2011-02-17 21:06:41 [INFO] Preparing level "world"
+2011-02-17 21:06:41 [INFO] Preparing start region
+2011-02-17 21:06:42 [INFO] Preparing spawn area: 4%
+2011-02-17 21:06:43 [INFO] Preparing spawn area: 20%
+2011-02-17 21:06:44 [INFO] Preparing spawn area: 61%
+2011-02-17 21:06:45 [INFO] Done! For help, type "help" or "?"
+2011-02-17 21:08:36 [INFO] bccbrendan [/99.184.79.140:55022] logged in with entity id 228
+2011-02-17 21:09:13 [INFO] jollysnowman [/99.184.79.140:55049] logged in with entity id 1986
+2011-02-17 21:23:09 [INFO] jollysnowman tried command: tp bccbrendan jollysnowman
+2011-02-17 21:23:19 [INFO] jollysnowman tried command: tp bccbrendan jollysnowman
+2011-02-17 21:29:56 [INFO] jollysnowman tried command: op jollysnowman
+2011-02-17 21:30:18 [INFO] bccbrendan issued server command: op jollysnowman
+2011-02-17 21:30:18 [INFO] bccbrendan: Opping jollysnowman
+2011-02-17 21:32:25 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-17 21:32:48 [INFO] bccbrendan [/99.184.79.140:55045] logged in with entity id 29428
+2011-02-17 21:33:16 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-17 21:33:30 [INFO] /99.184.79.140:55005 lost connection
+2011-02-17 21:33:54 [INFO] bccbrendan [/99.184.79.140:55035] logged in with entity id 29794
+2011-02-17 22:07:06 [INFO] jollysnowman issued server command: tp jollysnowman bccbrendan
+2011-02-17 22:07:06 [INFO] jollysnowman: Teleporting jollysnowman to bccbrendan.
+2011-02-17 22:10:03 [INFO] jollysnowman lost connection: disconnect.quitting
+2011-02-17 22:10:06 [INFO] jollysnowman [/99.184.79.140:55024] logged in with entity id 59964
+2011-02-17 22:22:51 [INFO] jollysnowman issued server command: give jollysnowman 262 64
+2011-02-17 22:22:51 [INFO] jollysnowman: Giving jollysnowman some 262
+2011-02-17 22:22:59 [INFO] jollysnowman issued server command: give bccbrendan 262 64
+2011-02-17 22:22:59 [INFO] jollysnowman: Giving bccbrendan some 262
+2011-02-17 22:26:08 [INFO] jollysnowman issued server command: give jollysnowman 320 64
+2011-02-17 22:26:08 [INFO] jollysnowman: Giving jollysnowman some 320
+2011-02-17 22:27:52 [INFO] jollysnowman issued server command: give jollysnowman 262 40
+2011-02-17 22:27:52 [INFO] jollysnowman: Giving jollysnowman some 262
+2011-02-17 22:29:39 [INFO] bccbrendan lost connection: disconnect.quitting
+2011-02-17 22:29:41 [INFO] jollysnowman lost connection: disconnect.quitting
