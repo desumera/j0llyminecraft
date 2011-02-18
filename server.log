@@ -3594,3 +3594,121 @@
 2011-02-17 15:03:31 [INFO] CONSOLE: Stopping the server..
 2011-02-17 15:03:31 [INFO] Stopping server
 2011-02-17 15:03:31 [INFO] Saving chunks
+2011-02-17 18:50:31 [INFO] Starting minecraft server version Beta 1.2_01
+2011-02-17 18:50:31 [INFO] Loading properties
+2011-02-17 18:50:32 [INFO] Starting Minecraft server on *:25565
+2011-02-17 18:50:32 [INFO] Preparing level "world"
+2011-02-17 18:50:32 [INFO] Preparing start region
+2011-02-17 18:50:33 [INFO] Preparing spawn area: 0%
+2011-02-17 18:50:34 [INFO] Preparing spawn area: 3%
+2011-02-17 18:50:35 [INFO] Preparing spawn area: 8%
+2011-02-17 18:50:36 [INFO] Preparing spawn area: 12%
+2011-02-17 18:50:37 [INFO] Preparing spawn area: 16%
+2011-02-17 18:50:38 [INFO] Preparing spawn area: 24%
+2011-02-17 18:50:39 [INFO] Preparing spawn area: 32%
+2011-02-17 18:50:40 [INFO] Preparing spawn area: 40%
+2011-02-17 18:50:41 [INFO] Preparing spawn area: 61%
+2011-02-17 18:50:42 [INFO] Preparing spawn area: 85%
+2011-02-17 18:50:43 [INFO] Done! For help, type "help" or "?"
+2011-02-17 18:55:23 [INFO] Disconnecting jollysnowman [/99.184.79.140:55136]: Took too long to log in
+2011-02-17 18:55:44 [INFO] /99.184.79.140:55137 lost connection
+2011-02-17 18:55:49 [INFO] /99.184.79.140:55267 lost connection
+2011-02-17 18:55:58 [INFO] Disconnecting jollysnowman [/99.184.79.140:55020]: Took too long to log in
+2011-02-17 18:56:07 [INFO] /99.184.79.140:55002 lost connection
+2011-02-17 18:56:52 [INFO] /99.184.79.140:55045 lost connection
+2011-02-17 18:58:23 [INFO] jollysnowman [/99.184.79.140:55096] logged in with entity id 170
+2011-02-17 19:25:52 [INFO] bccbrendan [/99.184.79.140:55093] logged in with entity id 21511
+2011-02-17 19:26:21 [INFO] <bccbrendan> wut up
+2011-02-17 19:26:23 [INFO] <jollysnowman> nm
+2011-02-17 19:26:30 [INFO] <jollysnowman> running into monsters lol
+2011-02-17 19:26:32 [INFO] <bccbrendan> u mining?
+2011-02-17 19:26:46 [INFO] <jollysnowman> yup
+2011-02-17 19:27:51 [INFO] <jollysnowman> wtf i can hear cows
+2011-02-17 19:28:01 [INFO] <bccbrendan> well ur pretty close to the surface
+2011-02-17 19:28:25 [INFO] <jollysnowman> weird doesn't seem like it
+2011-02-17 19:29:07 [INFO] <jollysnowman> i hate exploring caves haha
+2011-02-17 19:29:50 [INFO] <bccbrendan> o rly? i think its kinda fun
+2011-02-17 19:29:52 [INFO] <bccbrendan> but scary
+2011-02-17 19:29:59 [INFO] <jollysnowman> yeah cause it's so scary
+2011-02-17 19:30:00 [INFO] <jollysnowman> hahaha
+2011-02-17 19:34:27 [INFO] <bccbrendan> fuck yeah just found 12 iron
+2011-02-17 19:34:45 [INFO] <jollysnowman> niiiice
+2011-02-17 19:36:40 [INFO] <jollysnowman> dammit i need to be better with torches
+2011-02-17 19:36:44 [INFO] <jollysnowman> i get monsters somtimes
+2011-02-17 19:36:54 [INFO] <bccbrendan> tsk tsk
+2011-02-17 19:37:16 [INFO] <jollysnowman> that definitely scares the shit out ofme
+2011-02-17 19:37:56 [INFO] <jollysnowman> also,  ihave 3 black wool
+2011-02-17 19:38:09 [INFO] <bccbrendan> need iron? gold?
+2011-02-17 19:38:24 [INFO] jollysnowman issued server command: tp jollysnowman bccbrendan
+2011-02-17 19:38:24 [INFO] jollysnowman: Teleporting jollysnowman to bccbrendan.
+2011-02-17 19:38:27 [INFO] <jollysnowman> iron?
+2011-02-17 19:38:49 [INFO] <bccbrendan> sure how many?
+2011-02-17 19:38:54 [INFO] <jollysnowman> w/e
+2011-02-17 19:39:11 [INFO] <bccbrendan> gracias amigo
+2011-02-17 19:39:19 [INFO] <jollysnowman> two more
+2011-02-17 19:39:21 [INFO] <bccbrendan> now you get to see my secret project
+2011-02-17 19:39:34 [INFO] <jollysnowman> lol yeah i was like oops i shouldn't be here
+2011-02-17 19:39:36 [INFO] <jollysnowman> hahahahaha
+2011-02-17 19:39:57 [INFO] <bccbrendan> its gonne be awesome
+2011-02-17 19:40:03 [INFO] <jollysnowman> what it's gonna be
+2011-02-17 19:40:16 [INFO] <bccbrendan> grass and trees underground
+2011-02-17 19:40:27 [INFO] <bccbrendan> idk if i want a little cottage house thing
+2011-02-17 19:40:34 [INFO] <jollysnowman> haha that'd be neat
+2011-02-17 19:40:36 [INFO] <bccbrendan> or like an epic temple of earth thing
+2011-02-17 19:40:58 [INFO] <bccbrendan> maybe we could make like the temple of water and the temple of fire
+2011-02-17 19:41:05 [INFO] <bccbrendan> and other zelda-like stuf
+2011-02-17 19:41:12 [INFO] <jollysnowman> that'd be neat
+2011-02-17 19:41:45 [INFO] <jollysnowman> wait when i said two more i meant you had two more wool to pick up haha
+2011-02-17 19:41:53 [INFO] <bccbrendan> oh haha
+2011-02-17 19:42:12 [INFO] <bccbrendan> i was like 'you drive a hard bargain...'
+2011-02-17 19:42:16 [INFO] <jollysnowman> hahaha
+2011-02-17 19:42:19 [INFO] <jollysnowman> TWO MORE
+2011-02-17 19:42:23 [INFO] <bccbrendan> nao
+2011-02-17 19:44:46 [INFO] <jollysnowman> oh so admins can build by the spawn point
+2011-02-17 19:44:54 [INFO] <bccbrendan> fuck yeah
+2011-02-17 19:45:01 [INFO] <bccbrendan> gonna put lava there
+2011-02-17 19:51:11 [INFO] <bccbrendan> protip: if you see a single ore/coal/diamond block be sure to poke around near it.
+2011-02-17 19:51:20 [INFO] <bccbrendan> they never really appear individually
+2011-02-17 19:51:22 [INFO] <jollysnowman> lol yeah
+2011-02-17 20:04:08 [INFO] <jollysnowman> we should prank someone
+2011-02-17 20:04:52 [INFO] <bccbrendan> at the spawn point?
+2011-02-17 20:04:55 [INFO] <bccbrendan> or in their hose?
+2011-02-17 20:04:58 [INFO] <bccbrendan> house
+2011-02-17 20:05:02 [INFO] <jollysnowman> i was thinking house
+2011-02-17 20:05:18 [INFO] <jollysnowman> spawn point also works
+2011-02-17 20:06:08 [INFO] <bccbrendan> what you got in mind?
+2011-02-17 20:06:16 [INFO] <jollysnowman> iono
+2011-02-17 20:06:30 [INFO] <bccbrendan> we could dig out a giant hole that looks like a chunk error
+2011-02-17 20:06:36 [INFO] <bccbrendan> and theyd fall in it
+2011-02-17 20:06:47 [INFO] <jollysnowman> hahhaa
+2011-02-17 20:06:54 [INFO] <jollysnowman> i really wanna flood you
+2011-02-17 20:07:01 [INFO] <bccbrendan> no pls
+2011-02-17 20:07:07 [INFO] <bccbrendan> torches, grass
+2011-02-17 20:07:22 [INFO] <jollysnowman> is that how you got grass?
+2011-02-17 20:07:27 [INFO] <bccbrendan> yeah
+2011-02-17 20:07:32 [INFO] <bccbrendan> its taking forever
+2011-02-17 20:13:17 [INFO] <bccbrendan> wanna make tnt?
+2011-02-17 20:13:25 [INFO] <jollysnowman> sure
+2011-02-17 20:13:38 [INFO] <bccbrendan> need some sand
+2011-02-17 20:13:45 [INFO] <jollysnowman> i'll get it
+2011-02-17 20:13:52 [INFO] <bccbrendan> i got the sulpher
+2011-02-17 20:14:52 [INFO] <jollysnowman> wtf there's no sand in the comm chest
+2011-02-17 20:15:58 [INFO] <jollysnowman> cree[er\ss
+2011-02-17 20:16:04 [INFO] <bccbrendan> safe
+2011-02-17 20:16:25 [INFO] <bccbrendan> ok that should dow
+2011-02-17 20:17:09 [INFO] bccbrendan lost connection: disconnect.genericReason
+2011-02-17 20:17:36 [INFO] bccbrendan [/99.184.79.140:55022] logged in with entity id 93098
+2011-02-17 20:17:41 [INFO] <jollysnowman> check it out
+2011-02-17 20:17:55 [INFO] <bccbrendan> haha
+2011-02-17 20:18:16 [INFO] <jollysnowman> oooh iwas aiming for you
+2011-02-17 20:18:42 [INFO] <jollysnowman> how do you make it
+2011-02-17 20:19:10 [INFO] <jollysnowman> how do you make ittt
+2011-02-17 20:20:30 [INFO] <jollysnowman> syple
+2011-02-17 20:20:32 [INFO] <jollysnowman> skype
+2011-02-17 20:21:39 [INFO] <bccbrendan> skype's updating
+2011-02-17 20:21:43 [INFO] <bccbrendan> itll take a sec
+2011-02-17 20:22:18 [INFO] <bccbrendan> calling you
+2011-02-17 20:23:12 [INFO] jollysnowman issued server command: stop
+2011-02-17 20:23:12 [INFO] jollysnowman: Stopping the server..
+2011-02-17 20:23:12 [INFO] Stopping server
+2011-02-17 20:23:12 [INFO] Saving chunks
